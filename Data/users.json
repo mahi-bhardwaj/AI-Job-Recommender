@@ -1,0 +1,1402 @@
+[
+  {
+    "id": 1,
+    "name": "Arjun Sharma",
+    "skills": ["Python", "SQL", "Data Analysis", "Machine Learning", "Statistics"],
+    "primary_focus": "data_science",
+    "experience_years": 5
+  },
+  {
+    "id": 2,
+    "name": "Priya Patel",
+    "skills": ["JavaScript", "React", "HTML", "CSS", "Git"],
+    "primary_focus": "frontend",
+    "experience_years": 3
+  },
+  {
+    "id": 3,
+    "name": "Vikram Singh",
+    "skills": ["Java", "Spring Boot", "MySQL", "Microservices", "REST APIs"],
+    "primary_focus": "backend",
+    "experience_years": 7
+  },
+  {
+    "id": 4,
+    "name": "Neha Gupta",
+    "skills": ["AWS", "Docker", "Kubernetes", "Terraform", "Jenkins"],
+    "primary_focus": "devops",
+    "experience_years": 4
+  },
+  {
+    "id": 5,
+    "name": "Rahul Mehta",
+    "skills": ["JavaScript", "React", "Node.js", "MongoDB", "Express"],
+    "primary_focus": "fullstack",
+    "experience_years": 6
+  },
+  {
+    "id": 6,
+    "name": "Anjali Verma",
+    "skills": ["Swift", "iOS", "Objective-C", "UIKit", "CoreData"],
+    "primary_focus": "mobile",
+    "experience_years": 4
+  },
+  {
+    "id": 7,
+    "name": "Karan Malhotra",
+    "skills": ["Java", "Kotlin", "Android", "Firebase", "Material Design"],
+    "primary_focus": "mobile",
+    "experience_years": 5
+  },
+  {
+    "id": 8,
+    "name": "Divya Reddy",
+    "skills": ["Figma", "Adobe XD", "UI Design", "Wireframing", "User Research"],
+    "primary_focus": "design",
+    "experience_years": 3
+  },
+  {
+    "id": 9,
+    "name": "Sanjay Kumar",
+    "skills": ["Python", "TensorFlow", "PyTorch", "Deep Learning", "NLP"],
+    "primary_focus": "data_science",
+    "experience_years": 6
+  },
+  {
+    "id": 10,
+    "name": "Meera Desai",
+    "skills": ["AWS", "Azure", "Terraform", "Cloud Architecture", "Serverless"],
+    "primary_focus": "devops",
+    "experience_years": 5
+  },
+  {
+    "id": 11,
+    "name": "Rajesh Khanna",
+    "skills": ["Product Strategy", "Agile", "User Stories", "Market Research", "Roadmapping"],
+    "primary_focus": "product",
+    "experience_years": 8
+  },
+  {
+    "id": 12,
+    "name": "Pooja Shah",
+    "skills": ["Selenium", "Java", "Manual Testing", "JIRA", "Test Planning"],
+    "primary_focus": "testing",
+    "experience_years": 4
+  },
+  {
+    "id": 13,
+    "name": "Amit Joshi",
+    "skills": ["Network Security", "Penetration Testing", "OWASP", "Encryption"],
+    "primary_focus": "security",
+    "experience_years": 7
+  },
+  {
+    "id": 14,
+    "name": "Kavita Iyer",
+    "skills": ["Python", "Spark", "Hadoop", "SQL", "ETL"],
+    "primary_focus": "data_engineering",
+    "experience_years": 5
+  },
+  {
+    "id": 15,
+    "name": "Rohan Kapoor",
+    "skills": ["React Native", "JavaScript", "Redux", "Mobile Development"],
+    "primary_focus": "mobile",
+    "experience_years": 3
+  },
+  {
+    "id": 16,
+    "name": "Shreya Trivedi",
+    "skills": ["Data Analysis", "SQL", "Excel", "Tableau", "Requirements Gathering"],
+    "primary_focus": "business_analysis",
+    "experience_years": 4
+  },
+  {
+    "id": 17,
+    "name": "Deepak Chopra",
+    "skills": ["Agile", "Scrum", "Project Planning", "Risk Management", "JIRA"],
+    "primary_focus": "project_management",
+    "experience_years": 9
+  },
+  {
+    "id": 18,
+    "name": "Ananya Mishra",
+    "skills": ["JavaScript", "Vue.js", "CSS3", "HTML5", "Sass"],
+    "primary_focus": "frontend",
+    "experience_years": 4
+  },
+  {
+    "id": 19,
+    "name": "Vivek Rao",
+    "skills": ["Solidity", "Ethereum", "Smart Contracts", "Web3.js"],
+    "primary_focus": "blockchain",
+    "experience_years": 3
+  },
+  {
+    "id": 20,
+    "name": "Preeti Agarwal",
+    "skills": ["Java", "Spring Boot", "MySQL", "Redis", "RESTful APIs"],
+    "primary_focus": "backend",
+    "experience_years": 6
+  },
+  {
+    "id": 21,
+    "name": "Ajay Menon",
+    "skills": ["Linux", "Kubernetes", "Prometheus", "Python", "AWS"],
+    "primary_focus": "devops",
+    "experience_years": 5
+  },
+  {
+    "id": 22,
+    "name": "Nandini Rao",
+    "skills": ["Deep Learning", "NLP", "PyTorch", "Research Methods"],
+    "primary_focus": "research",
+    "experience_years": 7
+  },
+  {
+    "id": 23,
+    "name": "Harsh Patel",
+    "skills": ["Angular", "TypeScript", "RxJS", "HTML", "CSS"],
+    "primary_focus": "frontend",
+    "experience_years": 4
+  },
+  {
+    "id": 24,
+    "name": "Lakshmi Narayan",
+    "skills": ["Python", "Flask", "Django", "SQLAlchemy", "Docker"],
+    "primary_focus": "backend",
+    "experience_years": 5
+  },
+  {
+    "id": 25,
+    "name": "Ravi Shankar",
+    "skills": ["Swift", "UIKit", "CocoaPods", "RESTful APIs"],
+    "primary_focus": "mobile",
+    "experience_years": 3
+  },
+  {
+    "id": 26,
+    "name": "Arun Kumar",
+    "skills": ["Go", "PostgreSQL", "Microservices", "Docker"],
+    "primary_focus": "backend",
+    "experience_years": 4
+  },
+  {
+    "id": 27,
+    "name": "Sarika Patil",
+    "skills": ["JavaScript", "React", "Redux", "HTML5", "CSS3"],
+    "primary_focus": "frontend",
+    "experience_years": 2
+  },
+  {
+    "id": 28,
+    "name": "Manoj Tiwari",
+    "skills": ["MySQL", "MongoDB", "PostgreSQL", "Database Optimization"],
+    "primary_focus": "database",
+    "experience_years": 8
+  },
+  {
+    "id": 29,
+    "name": "Ishaan Verma",
+    "skills": ["Unity3D", "C#", "ARKit", "3D Modeling"],
+    "primary_focus": "specialized",
+    "experience_years": 3
+  },
+  {
+    "id": 30,
+    "name": "Shalini Das",
+    "skills": ["Node.js", "Express", "MongoDB", "RESTful APIs"],
+    "primary_focus": "backend",
+    "experience_years": 3
+  },
+  {
+    "id": 31,
+    "name": "Manoj Sharma",
+    "skills": ["SQL", "Python", "Excel", "Power BI", "Data Modeling"],
+    "primary_focus": "data_analysis",
+    "experience_years": 4
+  },
+  {
+    "id": 32,
+    "name": "Vimal Raj",
+    "skills": ["AWS", "Terraform", "Networking", "Security Groups", "VPC"],
+    "primary_focus": "devops",
+    "experience_years": 5
+  },
+  {
+    "id": 33,
+    "name": "Bhavna Kapoor",
+    "skills": ["Ruby", "Rails", "PostgreSQL", "RSpec"],
+    "primary_focus": "backend",
+    "experience_years": 4
+  },
+  {
+    "id": 34,
+    "name": "Rohit Khanna",
+    "skills": ["Unity3D", "C#", "Game Design", "3D Modeling"],
+    "primary_focus": "gaming",
+    "experience_years": 5
+  },
+  {
+    "id": 35,
+    "name": "Namita Jain",
+    "skills": ["Selenium", "Python", "Jenkins", "Test Automation"],
+    "primary_focus": "testing",
+    "experience_years": 3
+  },
+  {
+    "id": 36,
+    "name": "Kunal Bhatia",
+    "skills": ["Python", "NLP", "NLTK", "SpaCy", "TensorFlow"],
+    "primary_focus": "data_science",
+    "experience_years": 4
+  },
+  {
+    "id": 37,
+    "name": "Siddharth Nair",
+    "skills": ["C", "C++", "Embedded Linux", "RTOS", "Microcontrollers"],
+    "primary_focus": "embedded",
+    "experience_years": 6
+  },
+  {
+    "id": 38,
+    "name": "Rupa Chandran",
+    "skills": ["Linux", "Networking", "Troubleshooting", "Customer Support"],
+    "primary_focus": "support",
+    "experience_years": 3
+  },
+  {
+    "id": 39,
+    "name": "Satish Mohan",
+    "skills": ["AWS", "GCP", "Cloud Architecture", "Serverless"],
+    "primary_focus": "architecture",
+    "experience_years": 8
+  },
+  {
+    "id": 40,
+    "name": "Vinay Choudhury",
+    "skills": ["Hadoop", "Spark", "Kafka", "Hive", "Python"],
+    "primary_focus": "data_engineering",
+    "experience_years": 6
+  },
+  {
+    "id": 41,
+    "name": "Ekta Sharma",
+    "skills": ["Python", "R", "Data Visualization", "Statistical Analysis"],
+    "primary_focus": "data_science",
+    "experience_years": 2
+  },
+  {
+    "id": 42,
+    "name": "Aniket Deshpande",
+    "skills": ["JavaScript", "React", "Redux", "Webpack"],
+    "primary_focus": "frontend",
+    "experience_years": 3
+  },
+  {
+    "id": 43,
+    "name": "Tanvi Menon",
+    "skills": ["Python", "Django", "PostgreSQL", "Docker"],
+    "primary_focus": "backend",
+    "experience_years": 4
+  },
+  {
+    "id": 44,
+    "name": "Pranav Joshi",
+    "skills": ["Flutter", "Dart", "Firebase", "Mobile Development"],
+    "primary_focus": "mobile",
+    "experience_years": 2
+  },
+  {
+    "id": 45,
+    "name": "Monica Saxena",
+    "skills": ["Product Management", "User Research", "Agile", "Wireframing"],
+    "primary_focus": "product",
+    "experience_years": 6
+  },
+  {
+    "id": 46,
+    "name": "Pankaj Gupta",
+    "skills": ["C++", "Algorithms", "Data Structures", "Problem Solving"],
+    "primary_focus": "backend",
+    "experience_years": 7
+  },
+  {
+    "id": 47,
+    "name": "Sneha Roy",
+    "skills": ["AWS", "Jenkins", "CI/CD", "Shell Scripting"],
+    "primary_focus": "devops",
+    "experience_years": 4
+  },
+  {
+    "id": 48,
+    "name": "Varun Kapoor",
+    "skills": ["JavaScript", "Express", "MongoDB", "Node.js"],
+    "primary_focus": "fullstack",
+    "experience_years": 3
+  },
+  {
+    "id": 49,
+    "name": "Gaurav Bansal",
+    "skills": ["C#", ".NET", "SQL Server", "Azure"],
+    "primary_focus": "backend",
+    "experience_years": 5
+  },
+  {
+    "id": 50,
+    "name": "Neetu Singh",
+    "skills": ["UI Design", "User Research", "Prototyping", "Adobe XD"],
+    "primary_focus": "design",
+    "experience_years": 4
+  },
+  {
+    "id": 51,
+    "name": "Mohan Reddy",
+    "skills": ["JavaScript", "GraphQL", "Node.js", "Apollo", "MongoDB"],
+    "primary_focus": "fullstack",
+    "experience_years": 4
+  },
+  {
+    "id": 52,
+    "name": "Ritu Deshmukh",
+    "skills": ["Python", "NLP", "BERT", "Machine Learning", "TensorFlow"],
+    "primary_focus": "data_science",
+    "experience_years": 5
+  },
+  {
+    "id": 53,
+    "name": "Suresh Kapoor",
+    "skills": ["PHP", "Laravel", "MySQL", "JavaScript", "Redis"],
+    "primary_focus": "backend",
+    "experience_years": 4
+  },
+  {
+    "id": 54,
+    "name": "Meena Iyer",
+    "skills": ["Network Security", "Firewall Management", "SIEM", "Vulnerability Assessment"],
+    "primary_focus": "security",
+    "experience_years": 6
+  },
+  {
+    "id": 55,
+    "name": "Alok Nath",
+    "skills": ["Technical Writing", "Content Strategy", "SEO", "Documentation", "Research"],
+    "primary_focus": "content",
+    "experience_years": 3
+  },
+  {
+    "id": 56,
+    "name": "Zeenat Khan",
+    "skills": ["Quantum Computing", "Python", "Qiskit", "Linear Algebra", "Physics"],
+    "primary_focus": "research",
+    "experience_years": 4
+  },
+  {
+    "id": 57,
+    "name": "Raj Malhotra",
+    "skills": ["Growth Marketing", "Data Analysis", "A/B Testing", "User Acquisition"],
+    "primary_focus": "marketing",
+    "experience_years": 5
+  },
+  {
+    "id": 58,
+    "name": "Pushpa Desai",
+    "skills": ["D3.js", "JavaScript", "Data Visualization", "SVG", "HTML", "CSS"],
+    "primary_focus": "data_visualization",
+    "experience_years": 3
+  },
+  {
+    "id": 59,
+    "name": "Om Prakash",
+    "skills": ["Linux", "Windows Server", "Active Directory", "Virtualization", "Networking"],
+    "primary_focus": "system_admin",
+    "experience_years": 7
+  },
+  {
+    "id": 60,
+    "name": "Komal Saxena",
+    "skills": ["ROS", "Python", "C++", "Computer Vision", "Sensor Integration"],
+    "primary_focus": "robotics",
+    "experience_years": 3
+  },
+  {
+    "id": 61,
+    "name": "Ashish Kumar",
+    "skills": ["Magento", "PHP", "JavaScript", "MySQL", "E-commerce"],
+    "primary_focus": "ecommerce",
+    "experience_years": 4
+  },
+  {
+    "id": 62,
+    "name": "Prerna Chandra",
+    "skills": ["Solution Architecture", "Microservices", "Cloud Architecture", "System Design"],
+    "primary_focus": "architecture",
+    "experience_years": 9
+  },
+  {
+    "id": 63,
+    "name": "Nithin Shetty",
+    "skills": ["Bioinformatics", "Python", "R", "Genomics", "Data Analysis"],
+    "primary_focus": "specialized",
+    "experience_years": 5
+  },
+  {
+    "id": 64,
+    "name": "Sunita Rai",
+    "skills": ["Networking", "Cisco", "Routing", "Switching", "Network Security"],
+    "primary_focus": "networking",
+    "experience_years": 6
+  },
+  {
+    "id": 65,
+    "name": "Prakash Jha",
+    "skills": ["3D Modeling", "Blender", "Maya", "Texturing", "Animation"],
+    "primary_focus": "design",
+    "experience_years": 4
+  },
+  {
+    "id": 66,
+    "name": "Vibha Tiwari",
+    "skills": ["Go", "Docker", "Kubernetes", "Microservices", "gRPC"],
+    "primary_focus": "backend",
+    "experience_years": 3
+  },
+  {
+    "id": 67,
+    "name": "Farhan Ahmed",
+    "skills": ["Computer Vision", "OpenCV", "Deep Learning", "Python", "Image Processing"],
+    "primary_focus": "data_science",
+    "experience_years": 4
+  },
+  {
+    "id": 68,
+    "name": "Swati Gupta",
+    "skills": ["SEO", "SEM", "Social Media Marketing", "Content Strategy", "Google Analytics"],
+    "primary_focus": "marketing",
+    "experience_years": 5
+  },
+  {
+    "id": 69,
+    "name": "Mukesh Shinde",
+    "skills": ["Drupal", "PHP", "JavaScript", "MySQL", "CSS", "HTML"],
+    "primary_focus": "cms",
+    "experience_years": 5
+  },
+  {
+    "id": 70,
+    "name": "Juhi Chaturvedi",
+    "skills": ["Salesforce", "Apex", "SOQL", "Lightning Components", "JavaScript"],
+    "primary_focus": "crm",
+    "experience_years": 4
+  },
+  {
+    "id": 71,
+    "name": "Shantanu Das",
+    "skills": ["SAP ERP", "ABAP", "SAP HANA", "SAP Fiori", "ERP Implementation"],
+    "primary_focus": "erp",
+    "experience_years": 7
+  },
+  {
+    "id": 72,
+    "name": "Deepika Murthy",
+    "skills": ["Unity3D", "C#", "3D Modeling", "AR/VR Development", "ARKit"],
+    "primary_focus": "specialized",
+    "experience_years": 3
+  },
+  {
+    "id": 73,
+    "name": "Rajat Verma",
+    "skills": ["IoT", "Python", "MQTT", "Embedded Systems", "Raspberry Pi"],
+    "primary_focus": "iot",
+    "experience_years": 4
+  },
+  {
+    "id": 74,
+    "name": "Sheetal Nair",
+    "skills": ["Penetration Testing", "Vulnerability Assessment", "Ethical Hacking", "Network Security"],
+    "primary_focus": "security",
+    "experience_years": 5
+  },
+  {
+    "id": 75,
+    "name": "Vijay Chavan",
+    "skills": ["Vue.js", "Vuex", "JavaScript", "HTML", "CSS", "REST APIs"],
+    "primary_focus": "frontend",
+    "experience_years": 3
+  },
+  {
+    "id": 76,
+    "name": "Anjana Menon",
+    "skills": ["NLP", "Python", "RASA", "Dialogflow", "Machine Learning"],
+    "primary_focus": "ai",
+    "experience_years": 3
+  },
+  {
+    "id": 77,
+    "name": "Deepak Singh",
+    "skills": ["Performance Testing", "JMeter", "LoadRunner", "APM Tools", "SQL Optimization"],
+    "primary_focus": "testing",
+    "experience_years": 6
+  },
+  {
+    "id": 78,
+    "name": "Anamika Dey",
+    "skills": ["WordPress", "PHP", "JavaScript", "CSS", "HTML", "Plugin Development"],
+    "primary_focus": "cms",
+    "experience_years": 3
+  },
+  {
+    "id": 79,
+    "name": "Chetan Chauhan",
+    "skills": ["RPA", "UiPath", "Blue Prism", "Automation Anywhere", "Process Analysis"],
+    "primary_focus": "automation",
+    "experience_years": 4
+  },
+  {
+    "id": 80,
+    "name": "Smita Patel",
+    "skills": ["SAP", "Oracle ERP", "SQL", "Business Process", "Data Modeling"],
+    "primary_focus": "erp",
+    "experience_years": 6
+  },
+  {
+    "id": 81,
+    "name": "Tarun Mathur",
+    "skills": ["C", "Embedded C", "Firmware Development", "Microcontrollers", "RTOS"],
+    "primary_focus": "embedded",
+    "experience_years": 5
+  },
+  {
+    "id": 82,
+    "name": "Priya Khurana",
+    "skills": ["Python", "R", "Statistics", "Machine Learning", "Financial Modeling"],
+    "primary_focus": "finance",
+    "experience_years": 4
+  },
+  {
+    "id": 83,
+    "name": "Kishore Naidu",
+    "skills": ["Elasticsearch", "Kibana", "Logstash", "Java", "Python"],
+    "primary_focus": "backend",
+    "experience_years": 5
+  },
+  {
+    "id": 84,
+    "name": "Shruti Agarwal",
+    "skills": ["C++", "Unity3D", "Unreal Engine", "Game Design", "3D Graphics"],
+    "primary_focus": "gaming",
+    "experience_years": 3
+  },
+  {
+    "id": 85,
+    "name": "Vishal Bhatia",
+    "skills": ["ARKit", "ARCore", "Unity3D", "3D Modeling", "Computer Vision"],
+    "primary_focus": "specialized",
+    "experience_years": 4
+  },
+  {
+    "id": 86,
+    "name": "Kiran Kumar",
+    "skills": ["GIS", "ArcGIS", "QGIS", "Python", "JavaScript", "Spatial Analysis"],
+    "primary_focus": "specialized",
+    "experience_years": 6
+  },
+  {
+    "id": 87,
+    "name": "Jyoti Sharma",
+    "skills": ["SQL", "Python", "Data Modeling", "ETL", "Business Intelligence"],
+    "primary_focus": "data_engineering",
+    "experience_years": 4
+  },
+  {
+    "id": 88,
+    "name": "Rahul Gandhi",
+    "skills": ["Scala", "Akka", "Apache Spark", "Functional Programming", "Big Data"],
+    "primary_focus": "backend",
+    "experience_years": 5
+  },
+  {
+    "id": 89,
+    "name": "Nandini Pramanik",
+    "skills": ["Python", "Django", "Django REST Framework", "PostgreSQL", "JavaScript"],
+    "primary_focus": "backend",
+    "experience_years": 3
+  },
+  {
+    "id": 90,
+    "name": "Anand Mehta",
+    "skills": ["Kubernetes", "Docker", "Helm", "CI/CD", "Linux", "Shell Scripting"],
+    "primary_focus": "devops",
+    "experience_years": 5
+  },
+  {
+    "id": 91,
+    "name": "Shreya Kulkarni",
+    "skills": ["Flutter", "Dart", "Mobile Development", "Firebase", "REST APIs"],
+    "primary_focus": "mobile",
+    "experience_years": 2
+  },
+  {
+    "id": 92,
+    "name": "Nikhil Raina",
+    "skills": ["Deep Learning", "PyTorch", "TensorFlow", "Research", "Computer Vision"],
+    "primary_focus": "research",
+    "experience_years": 6
+  },
+  {
+    "id": 93,
+    "name": "Neha Rao",
+    "skills": ["React", "TypeScript", "HTML", "CSS", "Next.js"],
+    "primary_focus": "frontend",
+    "experience_years": 3
+  },
+  {
+    "id": 94,
+    "name": "Rohan Nair",
+    "skills": ["Node.js", "Express", "MongoDB", "AWS", "Docker"],
+    "primary_focus": "backend",
+    "experience_years": 5
+  },
+  {
+    "id": 95,
+    "name": "Sanya Mehta",
+    "skills": ["AWS", "Azure", "Terraform", "Cloud Security", "Python"],
+    "primary_focus": "cloud",
+    "experience_years": 6
+  },
+  {
+    "id": 96,
+    "name": "Aditya Pillai",
+    "skills": ["Python", "PyTorch", "TensorFlow", "NLP", "Deep Learning"],
+    "primary_focus": "ai",
+    "experience_years": 5
+  },
+  {
+    "id": 97,
+    "name": "Meera Iyer",
+    "skills": ["HTML", "CSS", "JavaScript", "React", "Tailwind CSS"],
+    "primary_focus": "frontend",
+    "experience_years": 2
+  },
+  {
+    "id": 98,
+    "name": "Aravind Raj",
+    "skills": ["Python", "Data Analysis", "SQL", "Tableau", "Excel"],
+    "primary_focus": "data_science",
+    "experience_years": 3
+  },
+  {
+    "id": 99,
+    "name": "Tanvi Kapoor",
+    "skills": ["Node.js", "Express", "MongoDB", "Docker", "AWS"],
+    "primary_focus": "backend",
+    "experience_years": 4
+  },
+  {
+    "id": 100,
+    "name": "Devansh Bhatia",
+    "skills": ["Java", "Spring Boot", "MySQL", "AWS", "Hibernate"],
+    "primary_focus": "backend",
+    "experience_years": 5
+  },
+  {
+    "id": 101,
+    "name": "Raj Sharma",
+    "skills": ["Python", "SQL", "Data Analysis", "Pandas", "Project Management", "Communication", "Critical Thinking"],
+    "primary_focus": "Data Science",
+    "experience_years": 3
+  },
+  {
+    "id": 102,
+    "name": "Priya Patel",
+    "skills": ["Java", "Spring Boot", "Hibernate", "MySQL", "Team Leadership", "Problem Solving", "Mentoring"],
+    "primary_focus": "Backend Development",
+    "experience_years": 5
+  },
+  {
+    "id": 103,
+    "name": "Amit Kumar",
+    "skills": ["React", "JavaScript", "HTML/CSS", "Redux", "Client Communication", "Presentation Skills", "Time Management"],
+    "primary_focus": "Frontend Development",
+    "experience_years": 4
+  },
+  {
+    "id": 104,
+    "name": "Neha Gupta",
+    "skills": ["AWS", "Docker", "Kubernetes", "Jenkins", "Technical Documentation", "Strategic Planning", "Cross-team Collaboration"],
+    "primary_focus": "DevOps",
+    "experience_years": 6
+  },
+  {
+    "id": 105,
+    "name": "Vikram Singh",
+    "skills": ["TensorFlow", "PyTorch", "Computer Vision", "NLP", "Research", "Academic Writing", "Public Speaking"],
+    "primary_focus": "Machine Learning",
+    "experience_years": 4
+  },
+  {
+    "id": 106,
+    "name": "Anjali Desai",
+    "skills": ["Android", "Kotlin", "Java", "Firebase", "UI/UX Understanding", "Customer Empathy", "Agile Methodology"],
+    "primary_focus": "Mobile Development",
+    "experience_years": 3
+  },
+  {
+    "id": 107,
+    "name": "Rahul Mehta",
+    "skills": ["Selenium", "JUnit", "TestNG", "Cucumber", "Requirements Analysis", "Quality Assurance", "Detail-Oriented"],
+    "primary_focus": "QA Testing",
+    "experience_years": 5
+  },
+  {
+    "id": 108,
+    "name": "Sarika Joshi",
+    "skills": ["Product Management", "Agile", "JIRA", "User Stories", "Stakeholder Management", "Negotiation", "Market Research"],
+    "primary_focus": "Product Management",
+    "experience_years": 7
+  },
+  {
+    "id": 109,
+    "name": "Karan Malhotra",
+    "skills": ["Python", "Django", "PostgreSQL", "Redis", "System Design", "Technical Writing", "Code Review"],
+    "primary_focus": "Backend Development",
+    "experience_years": 4
+  },
+  {
+    "id": 110,
+    "name": "Divya Kapoor",
+    "skills": ["Data Analysis", "Excel", "SQL", "Tableau", "Storytelling", "Business Intelligence", "Statistical Thinking"],
+    "primary_focus": "Data Analysis",
+    "experience_years": 2
+  },
+  {
+    "id": 111,
+    "name": "Arjun Reddy",
+    "skills": ["UI/UX Design", "Figma", "Adobe XD", "Sketch", "User Research", "Design Thinking", "Visual Communication"],
+    "primary_focus": "UI/UX Design",
+    "experience_years": 5
+  },
+  {
+    "id": 112,
+    "name": "Shreya Verma",
+    "skills": ["Content Strategy", "SEO", "Copywriting", "Content Management", "Social Media", "Analytics", "Brand Messaging"],
+    "primary_focus": "Content Marketing",
+    "experience_years": 3
+  },
+  {
+    "id": 113,
+    "name": "Vivek Choudhary",
+    "skills": ["React Native", "JavaScript", "TypeScript", "Redux", "API Integration", "Cross-platform Development", "Problem Solving"],
+    "primary_focus": "Mobile Development",
+    "experience_years": 4
+  },
+  {
+    "id": 114,
+    "name": "Arti Sharma",
+    "skills": ["SAP", "ERP Implementation", "Business Analysis", "Process Optimization", "Change Management", "Requirements Gathering", "Solution Design"],
+    "primary_focus": "Enterprise Solutions",
+    "experience_years": 8
+  },
+  {
+    "id": 115,
+    "name": "Deepak Iyer",
+    "skills": ["Cybersecurity", "Network Security", "Penetration Testing", "VAPT", "ISO 27001", "Risk Assessment", "Security Architecture"],
+    "primary_focus": "Cybersecurity",
+    "experience_years": 6
+  },
+  {
+    "id": 116,
+    "name": "Lakshmi Krishnan",
+    "skills": ["Financial Analysis", "Budget Planning", "Excel", "PowerPoint", "Investment Analysis", "Forecasting", "Strategic Planning"],
+    "primary_focus": "Finance",
+    "experience_years": 5
+  },
+  {
+    "id": 117,
+    "name": "Rajesh Venkatesh",
+    "skills": ["Sales Strategy", "Client Relationship Management", "Negotiation", "Business Development", "Market Analysis", "Presentation Skills", "Enterprise Sales"],
+    "primary_focus": "Sales",
+    "experience_years": 9
+  },
+  {
+    "id": 118,
+    "name": "Pooja Bhatt",
+    "skills": ["HR Management", "Recruitment", "Performance Management", "Employee Engagement", "Conflict Resolution", "Onboarding", "Talent Development"],
+    "primary_focus": "Human Resources",
+    "experience_years": 7
+  },
+  {
+    "id": 119,
+    "name": "Kunal Bajaj",
+    "skills": ["PHP", "Laravel", "MySQL", "JavaScript", "jQuery", "Ajax", "Responsive Design"],
+    "primary_focus": "Web Development",
+    "experience_years": 6
+  },
+  {
+    "id": 120,
+    "name": "Swati Agarwal",
+    "skills": ["Supply Chain Management", "Logistics", "Inventory Management", "Procurement", "Vendor Management", "ERP Systems", "Cost Optimization"],
+    "primary_focus": "Supply Chain",
+    "experience_years": 8
+  },
+  {
+    "id": 121,
+    "name": "Manish Tiwari",
+    "skills": ["Angular", "TypeScript", "RxJS", "HTML/CSS", "SASS", "Git", "REST API Integration"],
+    "primary_focus": "Frontend Development",
+    "experience_years": 5
+  },
+  {
+    "id": 122,
+    "name": "Shalini Reddy",
+    "skills": ["Project Management", "Agile", "Scrum", "Risk Management", "Stakeholder Communication", "MS Project", "Budget Management"],
+    "primary_focus": "Project Management",
+    "experience_years": 7
+  },
+  {
+    "id": 123,
+    "name": "Gaurav Malhotra",
+    "skills": ["Cloud Architecture", "AWS", "Azure", "GCP", "Serverless", "Microservices", "Infrastructure as Code"],
+    "primary_focus": "Cloud Computing",
+    "experience_years": 6
+  },
+  {
+    "id": 124,
+    "name": "Meera Patel",
+    "skills": ["Digital Marketing", "Google Analytics", "SEO", "SEM", "Content Strategy", "Social Media Marketing", "Email Marketing"],
+    "primary_focus": "Digital Marketing",
+    "experience_years": 4
+  },
+  {
+    "id": 125,
+    "name": "Rohit Saxena",
+    "skills": ["Big Data", "Hadoop", "Spark", "Hive", "Data Warehousing", "ETL", "Data Modeling"],
+    "primary_focus": "Big Data",
+    "experience_years": 5
+  },
+  {
+    "id": 126,
+    "name": "Nisha Singh",
+    "skills": ["Graphic Design", "Adobe Photoshop", "Adobe Illustrator", "Typography", "Brand Identity", "Visual Design", "Creative Thinking"],
+    "primary_focus": "Graphic Design",
+    "experience_years": 4
+  },
+  {
+    "id": 127,
+    "name": "Suresh Menon",
+    "skills": ["SAP ABAP", "SAP HANA", "SAP Fiori", "SAP S/4HANA", "Business Process Analysis", "Integration", "Technical Documentation"],
+    "primary_focus": "SAP Development",
+    "experience_years": 10
+  },
+  {
+    "id": 128,
+    "name": "Ananya Dasgupta",
+    "skills": ["iOS Development", "Swift", "Objective-C", "XCode", "UIKit", "Core Data", "App Store Deployment"],
+    "primary_focus": "Mobile Development",
+    "experience_years": 5
+  },
+  {
+    "id": 129,
+    "name": "Prakash Nair",
+    "skills": ["Robotics", "Embedded Systems", "C++", "Arduino", "Raspberry Pi", "Circuit Design", "IoT"],
+    "primary_focus": "Embedded Systems",
+    "experience_years": 7
+  },
+  {
+    "id": 130,
+    "name": "Kavita Bansal",
+    "skills": ["Customer Success", "Client Relationship", "Onboarding", "Account Management", "Problem Resolution", "Upselling", "Customer Experience"],
+    "primary_focus": "Customer Success",
+    "experience_years": 6
+  },
+  {
+    "id": 131,
+    "name": "Aditya Chopra",
+    "skills": ["Java", "Microservices", "Spring Boot", "Kafka", "Redis", "MongoDB", "Docker"],
+    "primary_focus": "Backend Development",
+    "experience_years": 7
+  },
+  {
+    "id": 132,
+    "name": "Ritu Sharma",
+    "skills": ["Data Science", "R", "Python", "Statistical Analysis", "Data Visualization", "Predictive Modeling", "Machine Learning"],
+    "primary_focus": "Data Science",
+    "experience_years": 4
+  },
+  {
+    "id": 133,
+    "name": "Vikrant Khanna",
+    "skills": ["Operations Management", "Process Improvement", "Six Sigma", "Lean Management", "Team Leadership", "Strategic Planning", "Resource Optimization"],
+    "primary_focus": "Operations",
+    "experience_years": 9
+  },
+  {
+    "id": 134,
+    "name": "Jyoti Arora",
+    "skills": ["Instructional Design", "E-learning", "Curriculum Development", "Training Delivery", "Content Creation", "LMS Administration", "Educational Psychology"],
+    "primary_focus": "Training & Development",
+    "experience_years": 5
+  },
+  {
+    "id": 135,
+    "name": "Siddharth Rao",
+    "skills": ["Vue.js", "JavaScript", "Vuex", "Node.js", "MongoDB", "Express", "Git"],
+    "primary_focus": "Frontend Development",
+    "experience_years": 3
+  },
+  {
+    "id": 136,
+    "name": "Ankita Das",
+    "skills": ["Business Analysis", "Requirements Gathering", "Process Modeling", "Documentation", "User Stories", "BPMN", "Stakeholder Management"],
+    "primary_focus": "Business Analysis",
+    "experience_years": 6
+  },
+  {
+    "id": 137,
+    "name": "Naveen Kumar",
+    "skills": ["Database Administration", "Oracle", "SQL Server", "Performance Tuning", "High Availability", "Database Security", "Backup & Recovery"],
+    "primary_focus": "Database Administration",
+    "experience_years": 8
+  },
+  {
+    "id": 138,
+    "name": "Radhika Nair",
+    "skills": ["Content Writing", "Blogging", "Copywriting", "Editing", "SEO Writing", "Technical Writing", "Research"],
+    "primary_focus": "Content Creation",
+    "experience_years": 4
+  },
+  {
+    "id": 139,
+    "name": "Sanjeev Gupta",
+    "skills": ["AI Development", "Deep Learning", "TensorFlow", "Computer Vision", "Natural Language Processing", "Python", "Research"],
+    "primary_focus": "Artificial Intelligence",
+    "experience_years": 5
+  },
+  {
+    "id": 140,
+    "name": "Preeti Singhania",
+    "skills": ["Blockchain", "Smart Contracts", "Solidity", "Ethereum", "DApps", "Cryptography", "Web3.js"],
+    "primary_focus": "Blockchain Development",
+    "experience_years": 4
+  },
+  {
+    "id": 141,
+    "name": "Ashish Mehta",
+    "skills": ["Network Administration", "Cisco", "Routing", "Switching", "Firewall", "Network Security", "Troubleshooting"],
+    "primary_focus": "Network Engineering",
+    "experience_years": 7
+  },
+  {
+    "id": 142,
+    "name": "Vandana Kapoor",
+    "skills": ["Event Management", "Planning", "Vendor Management", "Budgeting", "Logistics", "Marketing", "Client Relations"],
+    "primary_focus": "Event Management",
+    "experience_years": 6
+  },
+  {
+    "id": 143,
+    "name": "Sameer Panjwani",
+    "skills": ["Game Development", "Unity3D", "C#", "Game Design", "3D Modeling", "Animation", "Level Design"],
+    "primary_focus": "Game Development",
+    "experience_years": 5
+  },
+  {
+    "id": 144,
+    "name": "Tanvi Gupta",
+    "skills": ["Quality Management", "ISO 9001", "Process Improvement", "Auditing", "Documentation", "Training", "Compliance"],
+    "primary_focus": "Quality Management",
+    "experience_years": 8
+  },
+  {
+    "id": 145,
+    "name": "Rajiv Menon",
+    "skills": ["Node.js", "Express", "MongoDB", "GraphQL", "JavaScript", "API Development", "Authentication"],
+    "primary_focus": "Backend Development",
+    "experience_years": 5
+  },
+  {
+    "id": 146,
+    "name": "Sunita Sharma",
+    "skills": ["Market Research", "Data Analysis", "Consumer Insights", "Survey Design", "Focus Groups", "Report Writing", "Competitive Analysis"],
+    "primary_focus": "Market Research",
+    "experience_years": 6
+  },
+  {
+    "id": 147,
+    "name": "Karthik Rao",
+    "skills": ["Functional Testing", "Automation Testing", "API Testing", "Mobile Testing", "Test Management", "Bug Tracking", "Test Planning"],
+    "primary_focus": "QA Testing",
+    "experience_years": 4
+  },
+  {
+    "id": 148,
+    "name": "Leela Krishna",
+    "skills": ["Public Relations", "Media Relations", "Crisis Management", "Corporate Communications", "Press Release Writing", "Media Planning", "Event Management"],
+    "primary_focus": "Public Relations",
+    "experience_years": 7
+  },
+  {
+    "id": 149,
+    "name": "Tarun Sharma",
+    "skills": ["Flutter", "Dart", "Firebase", "REST API", "State Management", "UI Design", "Cross-platform Development"],
+    "primary_focus": "Mobile Development",
+    "experience_years": 3
+  },
+  {
+    "id": 150,
+    "name": "Sneha Agarwal",
+    "skills": ["Financial Planning", "Investment Analysis", "Tax Planning", "Risk Management", "Retirement Planning", "Estate Planning", "Insurance"],
+    "primary_focus": "Financial Planning",
+    "experience_years": 7
+  },
+  {
+    "id": 151,
+    "name": "Varun Malhotra",
+    "skills": ["Data Engineering", "ETL", "Python", "SQL", "Airflow", "Spark", "Data Pipelines"],
+    "primary_focus": "Data Engineering",
+    "experience_years": 5
+  },
+  {
+    "id": 152,
+    "name": "Poonam Singh",
+    "skills": ["Recruitment", "Talent Acquisition", "Interviewing", "Onboarding", "Sourcing", "Employer Branding", "HR Policies"],
+    "primary_focus": "Human Resources",
+    "experience_years": 6
+  },
+  {
+    "id": 153,
+    "name": "Mihir Shah",
+    "skills": ["DevSecOps", "CI/CD", "Security Automation", "Compliance as Code", "Infrastructure Security", "Container Security", "Vulnerability Management"],
+    "primary_focus": "DevOps",
+    "experience_years": 5
+  },
+  {
+    "id": 154,
+    "name": "Geeta Patel",
+    "skills": ["Brand Management", "Marketing Strategy", "Brand Identity", "Consumer Insights", "Campaign Management", "Creative Direction", "Market Research"],
+    "primary_focus": "Brand Management",
+    "experience_years": 8
+  },
+  {
+    "id": 155,
+    "name": "Anand Varma",
+    "skills": ["PHP", "CodeIgniter", "Laravel", "MySQL", "JavaScript", "REST API", "MVC Architecture"],
+    "primary_focus": "Web Development",
+    "experience_years": 6
+  },
+  {
+    "id": 156,
+    "name": "Isha Mathur",
+    "skills": ["Legal Compliance", "Contract Review", "Legal Research", "Policy Development", "Regulatory Affairs", "Corporate Law", "Intellectual Property"],
+    "primary_focus": "Legal Affairs",
+    "experience_years": 7
+  },
+  {
+    "id": 157,
+    "name": "Deepak Narayan",
+    "skills": ["System Administration", "Windows Server", "Linux", "Active Directory", "Exchange", "Virtualization", "Cloud Services"],
+    "primary_focus": "IT Administration",
+    "experience_years": 9
+  },
+  {
+    "id": 158,
+    "name": "Shikha Verma",
+    "skills": ["Video Production", "Video Editing", "Scriptwriting", "Camera Operation", "Lighting", "Sound Design", "Post-production"],
+    "primary_focus": "Video Production",
+    "experience_years": 4
+  },
+  {
+    "id": 159,
+    "name": "Rajeev Khanna",
+    "skills": ["Ruby on Rails", "Ruby", "PostgreSQL", "Redis", "JavaScript", "CSS", "API Development"],
+    "primary_focus": "Web Development",
+    "experience_years": 6
+  },
+  {
+    "id": 160,
+    "name": "Anita Desai",
+    "skills": ["UX Research", "User Testing", "Persona Development", "Journey Mapping", "Prototyping", "Information Architecture", "Usability Testing"],
+    "primary_focus": "UX Research",
+    "experience_years": 5
+  },
+  {
+    "id": 161,
+    "name": "Pramod Kumar",
+    "skills": ["SAS", "Statistical Analysis", "Data Modeling", "Predictive Analytics", "Data Mining", "Regression Analysis", "Hypothesis Testing"],
+    "primary_focus": "Data Analysis",
+    "experience_years": 8
+  },
+  {
+    "id": 162,
+    "name": "Ritika Bajaj",
+    "skills": ["Social Media Management", "Content Strategy", "Community Management", "Analytics", "Campaign Planning", "Influencer Marketing", "Engagement Strategies"],
+    "primary_focus": "Social Media Marketing",
+    "experience_years": 4
+  },
+  {
+    "id": 163,
+    "name": "Girish Reddy",
+    "skills": ["C#", "ASP.NET", "SQL Server", "Entity Framework", "MVC", "Web API", "Azure Services"],
+    "primary_focus": "Backend Development",
+    "experience_years": 7
+  },
+  {
+    "id": 164,
+    "name": "Seema Kapoor",
+    "skills": ["Interior Design", "Space Planning", "AutoCAD", "3D Visualization", "Material Selection", "Client Management", "Project Management"],
+    "primary_focus": "Interior Design",
+    "experience_years": 6
+  },
+  {
+    "id": 165,
+    "name": "Ajay Singh",
+    "skills": ["SalesForce", "CRM Administration", "Apex", "Visualforce", "Lightning Components", "SOQL", "Process Automation"],
+    "primary_focus": "CRM Development",
+    "experience_years": 5
+  },
+  {
+    "id": 166,
+    "name": "Priyanka Chopra",
+    "skills": ["Email Marketing", "Campaign Management", "A/B Testing", "Marketing Automation", "CRM Integration", "Analytics", "Content Creation"],
+    "primary_focus": "Digital Marketing",
+    "experience_years": 4
+  },
+  {
+    "id": 167,
+    "name": "Nikhil Jain",
+    "skills": ["iOS Development", "Swift", "SwiftUI", "Core Data", "Firebase", "RESTful APIs", "UI/UX Implementation"],
+    "primary_focus": "Mobile Development",
+    "experience_years": 5
+  },
+  {
+    "id": 168,
+    "name": "Roshni Mehta",
+    "skills": ["Change Management", "Organizational Development", "Training", "Process Improvement", "Stakeholder Management", "Communication Strategy", "Culture Transformation"],
+    "primary_focus": "Change Management",
+    "experience_years": 9
+  },
+  {
+    "id": 169,
+    "name": "Vinay Patil",
+    "skills": ["Golang", "Microservices", "Docker", "Kubernetes", "REST API", "gRPC", "PostgreSQL"],
+    "primary_focus": "Backend Development",
+    "experience_years": 4
+  },
+  {
+    "id": 170,
+    "name": "Aarti Sharma",
+    "skills": ["Accounting", "Financial Reporting", "Taxation", "Auditing", "Budgeting", "Excel", "Tally"],
+    "primary_focus": "Finance",
+    "experience_years": 7
+  },
+  {
+    "id": 171,
+    "name": "Sanjay Chakraborty",
+    "skills": ["Artificial Intelligence", "Machine Learning", "Deep Learning", "Python", "Data Science", "Algorithm Design", "Natural Language Processing"],
+    "primary_focus": "AI/ML Research",
+    "experience_years": 6
+  },
+  {
+    "id": 172,
+    "name": "Nandini Iyer",
+    "skills": ["Technical Writing", "Documentation", "Content Development", "Editing", "User Guides", "API Documentation", "Research"],
+    "primary_focus": "Technical Writing",
+    "experience_years": 5
+  },
+  {
+    "id": 173,
+    "name": "Harish Kumar",
+    "skills": ["Tableau", "Data Visualization", "SQL", "Excel", "Data Analysis", "Dashboard Design", "Reporting"],
+    "primary_focus": "Business Intelligence",
+    "experience_years": 4
+  },
+  {
+    "id": 174,
+    "name": "Madhuri Deshmukh",
+    "skills": ["Risk Management", "Compliance", "Audit", "Financial Analysis", "Policy Development", "Regulatory Reporting", "Corporate Governance"],
+    "primary_focus": "Risk & Compliance",
+    "experience_years": 8
+  },
+  {
+    "id": 175,
+    "name": "Manoj Tiwari",
+    "skills": ["Scala", "Akka", "Apache Spark", "Hadoop", "Big Data", "Functional Programming", "Data Processing"],
+    "primary_focus": "Big Data",
+    "experience_years": 6
+  },
+  {
+    "id": 176,
+    "name": "Esha Yadav",
+    "skills": ["SEO", "SEM", "Google Analytics", "Google Ads", "Keyword Research", "On-page Optimization", "Link Building"],
+    "primary_focus": "Digital Marketing",
+    "experience_years": 5
+  },
+  {
+    "id": 177,
+    "name": "Bharat Kapoor",
+    "skills": ["PostgreSQL", "Database Design", "Performance Tuning", "Query Optimization", "Data Modeling", "Backup & Recovery", "Security"],
+    "primary_focus": "Database Administration",
+    "experience_years": 7
+  },
+  {
+    "id": 178,
+    "name": "Juhi Puri",
+    "skills": ["Adobe Photoshop", "Adobe Illustrator", "Photography", "Photo Editing", "Composition", "Color Theory", "Visual Storytelling"],
+    "primary_focus": "Photography & Editing",
+    "experience_years": 4
+  },
+  {
+    "id": 179,
+    "name": "Ravi Shankar",
+    "skills": ["IT Service Management", "ITIL", "Service Delivery", "Incident Management", "Problem Management", "Change Management", "SLA Management"],
+    "primary_focus": "IT Service Management",
+    "experience_years": 9
+  },
+  {
+    "id": 180,
+    "name": "Savita Tuli",
+    "skills": ["Agile Coaching", "Scrum Master", "Kanban", "Team Facilitation", "Process Improvement", "Sprint Planning", "Retrospectives"],
+    "primary_focus": "Agile Coaching",
+    "experience_years": 6
+  },
+  {
+    "id": 181,
+    "name": "Kartik Mitra",
+    "skills": ["React", "Redux", "TypeScript", "Next.js", "Jest", "Webpack", "CSS-in-JS"],
+    "primary_focus": "Frontend Development",
+    "experience_years": 5
+  },
+  {
+    "id": 182,
+    "name": "Sanya Shah",
+    "skills": ["Customer Service", "Conflict Resolution", "Communication", "Problem Solving", "Empathy", "Product Knowledge", "CRM Systems"],
+    "primary_focus": "Customer Support",
+    "experience_years": 3
+  },
+  {
+    "id": 183,
+    "name": "Vikas Khanna",
+    "skills": ["Solution Architecture", "Enterprise Architecture", "System Design", "Cloud Solutions", "Integration", "Technical Leadership", "Stakeholder Management"],
+    "primary_focus": "Solution Architecture",
+    "experience_years": 10
+  },
+  {
+    "id": 184,
+    "name": "Chitra Roy",
+    "skills": ["Digital Illustration", "Character Design", "Concept Art", "Adobe Creative Suite", "Drawing", "Color Theory", "Storyboarding"],
+    "primary_focus": "Illustration",
+    "experience_years": 5
+  },
+  {
+    "id": 185,
+    "name": "Kamal Nath",
+    "skills": ["Ruby", "Ruby on Rails", "PostgreSQL", "RSpec", "JavaScript", "Redis", "API Development"],
+    "primary_focus": "Web Development",
+    "experience_years": 4
+  },
+  {
+    "id": 186,
+    "name": "Neetu Singh",
+    "skills": ["Healthcare Management", "Patient Care", "Medical Records", "Healthcare IT", "Regulatory Compliance", "Staff Management", "Quality Improvement"],
+    "primary_focus": "Healthcare Administration",
+    "experience_years": 8
+  },
+  {
+    "id": 187,
+    "name": "Pankaj Verma",
+    "skills": ["Unity3D", "C#", "Game Design", "3D Modeling", "Animation", "Physics", "UI/UX for Games"],
+    "primary_focus": "Game Development",
+    "experience_years": 5
+  },
+  {
+    "id": 188,
+    "name": "Aditi Sharma",
+    "skills": ["Corporate Training", "Learning & Development", "Instructional Design", "Facilitation", "Needs Assessment", "Training Evaluation", "Leadership Development"],
+    "primary_focus": "Corporate Training",
+    "experience_years": 7
+  },
+  {
+    "id": 189,
+    "name": "Vipin Kumar",
+    "skills": ["Python", "Django", "FastAPI", "PostgreSQL", "Docker", "AWS", "API Development"],
+    "primary_focus": "Backend Development",
+    "experience_years": 6
+  },
+  {
+    "id": 190,
+    "name": "Meenakshi Reddy",
+    "skills": ["Fashion Design", "Pattern Making", "Textile Knowledge", "Trend Analysis", "Sketching", "CAD", "Fashion Marketing"],
+    "primary_focus": "Fashion Design",
+    "experience_years": 5
+  },
+  {
+    "id": 191,
+    "name": "Surya Prakash",
+    "skills": ["Quality Assurance", "Test Planning", "Manual Testing", "Automated Testing", "Test Management", "Bug Tracking", "Performance Testing"],
+    "primary_focus": "QA Testing",
+    "experience_years": 4
+  },
+  {
+    "id": 192,
+    "name": "Kavya Nair",
+    "skills": ["UI Design", "Visual Design", "Wireframing", "Prototyping", "Design Systems", "Accessibility", "User-Centered Design"],
+    "primary_focus": "UI/UX Design",
+    "experience_years": 5
+  },
+  {
+    "id": 193,
+    "name": "Ashok Rana",
+    "skills": ["Linux Administration", "Shell Scripting", "System Security", "Performance Tuning", "Virtualization", "Troubleshooting", "Backup Solutions"],
+    "primary_focus": "System Administration",
+    "experience_years": 8
+  },
+  {
+    "id": 194,
+    "name": "Shweta Joshi",
+    "skills": ["Corporate Communications", "Internal Communications", "Content Strategy", "Event Management", "Crisis Communication", "Executive Communications", "Stakeholder Engagement"],
+    "primary_focus": "Corporate Communications",
+    "experience_years": 6
+  },
+  {
+    "id": 195,
+    "name": "Devendra Singh",
+    "skills": ["Angular", "JavaScript", "TypeScript", "RxJS", "NgRx", "HTML5", "CSS3"],
+    "primary_focus": "Frontend Development",
+    "experience_years": 5
+  },
+  {
+    "id": 196,
+    "name": "Lalita Kurup",
+    "skills": ["Translation", "Localization", "Editing", "Proofreading", "Cultural Adaptation", "Content Writing", "Linguistic Testing"],
+    "primary_focus": "Translation Services",
+    "experience_years": 4
+  },
+  {
+    "id": 197,
+    "name": "Prashant Gupta",
+    "skills": ["Elasticsearch", "Kibana", "Logstash", "Beats", "Log Analysis", "Monitoring", "Performance Optimization"],
+    "primary_focus": "DevOps",
+    "experience_years": 5
+  },
+  {
+    "id": 198,
+    "name": "Rashmi Shah",
+    "skills": ["Product Design", "Industrial Design", "3D Modeling", "Prototyping", "CAD", "Design Thinking", "User Research"],
+    "primary_focus": "Product Design",
+    "experience_years": 6
+  },
+  {
+    "id": 199,
+    "name": "Sai Krishna",
+    "skills": ["Financial Analysis", "Valuation", "Financial Modeling", "Excel", "Investment Research", "Market Analysis", "Report Writing"],
+    "primary_focus": "Finance",
+    "experience_years": 5
+  },
+  {
+    "id": 200,
+    "name": "Monica Sinha",
+    "skills": ["Technical Recruitment", "Sourcing", "Talent Assessment", "Interviewing Techniques", "HR Technology", "Candidate Relationship Management", "Employer Branding"],
+    "primary_focus": "Human Resources",
+    "experience_years": 7
+  }
+]

@@ -1,0 +1,1997 @@
+[
+  {
+      "id": "job001",
+      "title": "Senior Frontend Developer",
+      "company": "Flipkart",
+      "skills": ["JavaScript", "React", "TypeScript", "HTML", "CSS", "Redux", "Jest", "Webpack"],
+      "role_type": "frontend"
+    },
+    {
+      "id": "job002",
+      "title": "Backend Engineer",
+      "company": "Swiggy",
+      "skills": ["Python", "Django", "PostgreSQL", "REST API", "Docker", "AWS", "Microservices"],
+      "role_type": "backend"
+    },
+    {
+      "id": "job003",
+      "title": "Data Scientist",
+      "company": "Ola",
+      "skills": ["Python", "R", "SQL", "Machine Learning", "Data Visualization", "Statistics", "TensorFlow"],
+      "role_type": "data_science"
+    },
+    {
+      "id": "job004",
+      "title": "DevOps Engineer",
+      "company": "Zomato",
+      "skills": ["AWS", "Docker", "Kubernetes", "CI/CD", "Linux", "Terraform", "Jenkins", "Ansible"],
+      "role_type": "devops"
+    },
+    {
+      "id": "job005",
+      "title": "Full Stack Developer",
+      "company": "Paytm",
+      "skills": ["JavaScript", "React", "Node.js", "MongoDB", "Express", "HTML", "CSS", "Git"],
+      "role_type": "fullstack"
+    },
+    {
+      "id": "job006",
+      "title": "Mobile App Developer",
+      "company": "PhonePe",
+      "skills": ["Swift", "iOS", "Objective-C", "Xcode", "UIKit", "CoreData", "Firebase"],
+      "role_type": "mobile"
+    },
+    {
+      "id": "job007",
+      "title": "Android Developer",
+      "company": "MakeMyTrip",
+      "skills": ["Java", "Kotlin", "Android Studio", "SQLite", "Firebase", "RESTful APIs", "Material Design"],
+      "role_type": "mobile"
+    },
+    {
+      "id": "job008",
+      "title": "UI/UX Designer",
+      "company": "Myntra",
+      "skills": ["Figma", "Adobe XD", "Sketch", "Wireframing", "Prototyping", "User Research", "Visual Design"],
+      "role_type": "design"
+    },
+    {
+      "id": "job009",
+      "title": "Machine Learning Engineer",
+      "company": "Razorpay",
+      "skills": ["Python", "TensorFlow", "PyTorch", "Scikit-learn", "Deep Learning", "NLP", "Computer Vision"],
+      "role_type": "data_science"
+    },
+    {
+      "id": "job010",
+      "title": "Cloud Engineer",
+      "company": "Infosys",
+      "skills": ["AWS", "Azure", "GCP", "CloudFormation", "Terraform", "Serverless", "Lambda"],
+      "role_type": "devops"
+    },
+    {
+      "id": "job011",
+      "title": "Product Manager",
+      "company": "Byju's",
+      "skills": ["Product Strategy", "Agile", "User Stories", "Market Research", "Roadmapping", "Stakeholder Management", "Data Analysis"],
+      "role_type": "product"
+    },
+    {
+      "id": "job012",
+      "title": "QA Engineer",
+      "company": "TCS",
+      "skills": ["Selenium", "TestNG", "JUnit", "API Testing", "Manual Testing", "Test Planning", "JIRA"],
+      "role_type": "testing"
+    },
+    {
+      "id": "job013",
+      "title": "Security Engineer",
+      "company": "Wipro",
+      "skills": ["Network Security", "Penetration Testing", "OWASP", "Encryption", "Security Auditing", "Vulnerability Assessment"],
+      "role_type": "security"
+    },
+    {
+      "id": "job014",
+      "title": "Data Engineer",
+      "company": "Amazon India",
+      "skills": ["Python", "Spark", "Hadoop", "SQL", "ETL", "Data Warehousing", "Airflow", "Kafka"],
+      "role_type": "data_engineering"
+    },
+    {
+      "id": "job015",
+      "title": "React Native Developer",
+      "company": "Meesho",
+      "skills": ["React Native", "JavaScript", "TypeScript", "Redux", "RESTful APIs", "GraphQL", "Mobile Development"],
+      "role_type": "mobile"
+    },
+    {
+      "id": "job016",
+      "title": "Business Analyst",
+      "company": "Cognizant",
+      "skills": ["Data Analysis", "SQL", "Requirements Gathering", "Excel", "Tableau", "Process Mapping", "JIRA"],
+      "role_type": "business_analysis"
+    },
+    {
+      "id": "job017",
+      "title": "Project Manager",
+      "company": "HCL",
+      "skills": ["Agile", "Scrum", "Project Planning", "Risk Management", "Stakeholder Management", "MS Project", "JIRA"],
+      "role_type": "project_management"
+    },
+    {
+      "id": "job018",
+      "title": "Frontend Engineer",
+      "company": "Cred",
+      "skills": ["JavaScript", "Vue.js", "CSS3", "HTML5", "Sass", "Webpack", "Jest", "Responsive Design"],
+      "role_type": "frontend"
+    },
+    {
+      "id": "job019",
+      "title": "Blockchain Developer",
+      "company": "Polygon",
+      "skills": ["Solidity", "Ethereum", "Smart Contracts", "Web3.js", "DApps", "Blockchain Architecture", "Cryptography"],
+      "role_type": "blockchain"
+    },
+    {
+      "id": "job020",
+      "title": "Backend Developer",
+      "company": "Goibibo",
+      "skills": ["Java", "Spring Boot", "MySQL", "Redis", "RabbitMQ", "RESTful APIs", "Microservices"],
+      "role_type": "backend"
+    },
+    {
+      "id": "job021",
+      "title": "SRE Engineer",
+      "company": "Freshworks",
+      "skills": ["Linux", "Kubernetes", "Prometheus", "Grafana", "Python", "Bash", "AWS", "Incident Response"],
+      "role_type": "devops"
+    },
+    {
+      "id": "job022",
+      "title": "AI Research Scientist",
+      "company": "Microsoft India",
+      "skills": ["Deep Learning", "NLP", "Computer Vision", "PyTorch", "TensorFlow", "Research Methods", "Algorithm Design"],
+      "role_type": "research"
+    },
+    {
+      "id": "job023",
+      "title": "Angular Developer",
+      "company": "IBM India",
+      "skills": ["Angular", "TypeScript", "RxJS", "NgRx", "HTML", "CSS", "JavaScript", "RESTful APIs"],
+      "role_type": "frontend"
+    },
+    {
+      "id": "job024",
+      "title": "Python Developer",
+      "company": "ShareChat",
+      "skills": ["Python", "Flask", "Django", "SQLAlchemy", "Redis", "Celery", "Docker", "REST APIs"],
+      "role_type": "backend"
+    },
+    {
+      "id": "job025",
+      "title": "iOS Developer",
+      "company": "Urban Company",
+      "skills": ["Swift", "Objective-C", "UIKit", "CoreData", "CocoaPods", "RESTful APIs", "XCTest"],
+      "role_type": "mobile"
+    },
+    {
+      "id": "job026",
+      "title": "Backend Engineer",
+      "company": "InMobi",
+      "skills": ["Go", "Kubernetes", "PostgreSQL", "gRPC", "Microservices", "Docker", "Redis"],
+      "role_type": "backend"
+    },
+    {
+      "id": "job027",
+      "title": "Frontend Developer",
+      "company": "CoinDCX",
+      "skills": ["JavaScript", "React", "Redux", "HTML5", "CSS3", "Webpack", "Responsive Design", "TypeScript"],
+      "role_type": "frontend"
+    },
+    {
+      "id": "job028",
+      "title": "Database Administrator",
+      "company": "Tech Mahindra",
+      "skills": ["MySQL", "MongoDB", "PostgreSQL", "Database Optimization", "Backup & Recovery", "SQL", "Performance Tuning"],
+      "role_type": "database"
+    },
+    {
+      "id": "job029",
+      "title": "AR/VR Developer",
+      "company": "Jio",
+      "skills": ["Unity3D", "C#", "ARKit", "ARCore", "3D Modeling", "Computer Vision", "Animation"],
+      "role_type": "specialized"
+    },
+    {
+      "id": "job030",
+      "title": "Backend Developer",
+      "company": "Dunzo",
+      "skills": ["Node.js", "Express", "MongoDB", "Redis", "AWS", "Docker", "RESTful APIs", "Authentication"],
+      "role_type": "backend"
+    },
+    {
+      "id": "job031",
+      "title": "Data Analyst",
+      "company": "Nykaa",
+      "skills": ["SQL", "Python", "Excel", "Power BI", "Tableau", "Data Modeling", "Statistical Analysis"],
+      "role_type": "data_analysis"
+    },
+    {
+      "id": "job032",
+      "title": "Infrastructure Engineer",
+      "company": "Reliance Digital",
+      "skills": ["AWS", "Terraform", "CloudFormation", "Networking", "Security Groups", "VPC", "IAM"],
+      "role_type": "devops"
+    },
+    {
+      "id": "job033",
+      "title": "Ruby on Rails Developer",
+      "company": "ClearTax",
+      "skills": ["Ruby", "Rails", "PostgreSQL", "Redis", "RSpec", "Sidekiq", "HTML", "CSS"],
+      "role_type": "backend"
+    },
+    {
+      "id": "job034",
+      "title": "Game Developer",
+      "company": "Dream11",
+      "skills": ["Unity3D", "C#", "Game Design", "3D Modeling", "Animation", "Physics Engines", "Multiplayer Networking"],
+      "role_type": "gaming"
+    },
+    {
+      "id": "job035",
+      "title": "Automation Engineer",
+      "company": "Accenture India",
+      "skills": ["Selenium", "Python", "Jenkins", "CI/CD", "Test Automation", "API Testing", "TestNG"],
+      "role_type": "testing"
+    },
+    {
+      "id": "job036",
+      "title": "NLP Engineer",
+      "company": "Vernacular.ai",
+      "skills": ["Python", "NLP", "NLTK", "SpaCy", "TensorFlow", "Machine Learning", "Text Analytics"],
+      "role_type": "data_science"
+    },
+    {
+      "id": "job037",
+      "title": "Embedded Systems Engineer",
+      "company": "Bosch India",
+      "skills": ["C", "C++", "Embedded Linux", "RTOS", "Microcontrollers", "Assembly", "IoT Protocols"],
+      "role_type": "embedded"
+    },
+    {
+      "id": "job038",
+      "title": "Technical Support Engineer",
+      "company": "Dell India",
+      "skills": ["Linux", "Networking", "Troubleshooting", "Windows Server", "Customer Support", "Hardware Diagnostics"],
+      "role_type": "support"
+    },
+    {
+      "id": "job039",
+      "title": "Cloud Solutions Architect",
+      "company": "Google India",
+      "skills": ["AWS", "GCP", "Azure", "Cloud Architecture", "Microservices", "Serverless", "Solution Design"],
+      "role_type": "architecture"
+    },
+    {
+      "id": "job040",
+      "title": "Big Data Engineer",
+      "company": "Walmart Labs India",
+      "skills": ["Hadoop", "Spark", "Kafka", "Hive", "HBase", "Python", "Big Data Architecture", "ETL"],
+      "role_type": "data_engineering"
+    },  
+    {
+      "id": "job041",
+      "title": "GraphQL Developer",
+      "company": "Grofers",
+      "skills": ["GraphQL", "Node.js", "Apollo", "React", "JavaScript", "REST APIs", "MongoDB"],
+      "role_type": "fullstack"
+    },
+    {
+      "id": "job042",
+      "title": "Natural Language Processing Engineer",
+      "company": "Dailyhunt",
+      "skills": ["Python", "NLP", "BERT", "Transformers", "TensorFlow", "Linguistics", "Machine Learning"],
+      "role_type": "data_science"
+    },
+    {
+      "id": "job043", 
+      "title": "PHP Developer",
+      "company": "Zerodha",
+      "skills": ["PHP", "Laravel", "MySQL", "JavaScript", "Redis", "RESTful APIs", "Docker"],
+      "role_type": "backend"
+    },
+    {
+      "id": "job044",
+      "title": "Information Security Analyst",
+      "company": "HDFC Bank",
+      "skills": ["Cybersecurity", "Network Security", "Firewall Management", "SIEM", "Vulnerability Assessment", "Security Compliance"],
+      "role_type": "security"
+    },
+    {
+      "id": "job045",
+      "title": "Technical Content Writer",
+      "company": "Udemy India",
+      "skills": ["Technical Writing", "Content Strategy", "SEO", "Documentation", "Research", "Editing", "HTML"],
+      "role_type": "content"
+    },
+    {
+      "id": "job046",
+      "title": "Quantum Computing Researcher",
+      "company": "QuTech India",
+      "skills": ["Quantum Computing", "Python", "Qiskit", "Linear Algebra", "Quantum Algorithms", "Physics", "Research"],
+      "role_type": "research"
+    },
+    {
+      "id": "job047",
+      "title": "Growth Hacker",
+      "company": "Upstox",
+      "skills": ["Growth Marketing", "Data Analysis", "A/B Testing", "User Acquisition", "Product Analytics", "SQL", "Python"],
+      "role_type": "marketing"
+    },
+    {
+      "id": "job048",
+      "title": "Visualization Developer",
+      "company": "MuSigma",
+      "skills": ["D3.js", "JavaScript", "Data Visualization", "SVG", "Canvas", "HTML", "CSS", "Tableau"],
+      "role_type": "data_visualization"
+    },
+    {
+      "id": "job049",
+      "title": "Systems Administrator",
+      "company": "Bharti Airtel",
+      "skills": ["Linux", "Windows Server", "Active Directory", "Virtualization", "Networking", "Scripting", "Troubleshooting"],
+      "role_type": "system_admin"
+    },
+    {
+      "id": "job050",
+      "title": "Robotics Engineer",
+      "company": "Tata Elxsi",
+      "skills": ["ROS", "Python", "C++", "Computer Vision", "Sensor Integration", "Control Systems", "Embedded Systems"],
+      "role_type": "robotics"
+    },
+    {
+      "id": "job051",
+      "title": "Magento Developer",
+      "company": "Shopclues",
+      "skills": ["Magento", "PHP", "JavaScript", "MySQL", "E-commerce", "HTML", "CSS", "Payment Gateway Integration"],
+      "role_type": "ecommerce"
+    },
+    {
+      "id": "job052",
+      "title": "Technical Architect",
+      "company": "Persistent Systems",
+      "skills": ["Solution Architecture", "Microservices", "Cloud Architecture", "System Design", "API Design", "Scalability"],
+      "role_type": "architecture"
+    },
+    {
+      "id": "job053",
+      "title": "Bioinformatics Specialist",
+      "company": "Strand Life Sciences",
+      "skills": ["Bioinformatics", "Python", "R", "Genomics", "Next-Gen Sequencing", "Data Analysis", "Biology"],
+      "role_type": "specialized"
+    },
+    {
+      "id": "job054",
+      "title": "Network Engineer",
+      "company": "Reliance Jio",
+      "skills": ["Networking", "Cisco", "Routing", "Switching", "Network Security", "CCNA", "Troubleshooting"],
+      "role_type": "networking"
+    },
+    {
+      "id": "job055",
+      "title": "3D Artist",
+      "company": "Technicolor India",
+      "skills": ["3D Modeling", "Blender", "Maya", "Texturing", "Animation", "Rigging", "Rendering", "VFX"],
+      "role_type": "design"
+    },
+    {
+      "id": "job056",
+      "title": "Golang Developer",
+      "company": "Sharechat",
+      "skills": ["Go", "Docker", "Kubernetes", "Microservices", "gRPC", "REST APIs", "PostgreSQL"],
+      "role_type": "backend"
+    },
+    {
+      "id": "job057",
+      "title": "Computer Vision Engineer",
+      "company": "Netradyne",
+      "skills": ["Computer Vision", "OpenCV", "Deep Learning", "Python", "Image Processing", "TensorFlow", "PyTorch"],
+      "role_type": "data_science"
+    },
+    {
+      "id": "job058",
+      "title": "Digital Marketing Specialist",
+      "company": "BigBasket",
+      "skills": ["SEO", "SEM", "Social Media Marketing", "Content Strategy", "Google Analytics", "Data Analysis", "Campaign Management"],
+      "role_type": "marketing"
+    },
+    {
+      "id": "job059",
+      "title": "Drupal Developer",
+      "company": "Srijan Technologies",
+      "skills": ["Drupal", "PHP", "JavaScript", "MySQL", "CSS", "HTML", "CMS", "Theme Development"],
+      "role_type": "cms"
+    },
+    {
+      "id": "job060",
+      "title": "Salesforce Developer",
+      "company": "Capgemini India",
+      "skills": ["Salesforce", "Apex", "SOQL", "Lightning Components", "Visualforce", "JavaScript", "CRM"],
+      "role_type": "crm"
+    },
+    {
+      "id": "job061",
+      "title": "SAP Consultant",
+      "company": "L&T Infotech",
+      "skills": ["SAP ERP", "ABAP", "SAP HANA", "SAP Fiori", "SAP MM", "ERP Implementation", "Business Process"],
+      "role_type": "erp"
+    },
+    {
+      "id": "job062",
+      "title": "VR/AR Developer",
+      "company": "Tata Technologies",
+      "skills": ["Unity3D", "C#", "3D Modeling", "AR/VR Development", "ARKit", "ARCore", "UI/UX for AR"],
+      "role_type": "specialized"
+    },
+    {
+      "id": "job063",
+      "title": "IoT Solutions Engineer",
+      "company": "Siemens India",
+      "skills": ["IoT", "Python", "MQTT", "Embedded Systems", "Raspberry Pi", "Arduino", "AWS IoT", "Sensor Integration"],
+      "role_type": "iot"
+    },
+    {
+      "id": "job064",
+      "title": "Ethical Hacker",
+      "company": "Quick Heal",
+      "skills": ["Penetration Testing", "Vulnerability Assessment", "Ethical Hacking", "Network Security", "Kali Linux", "OWASP"],
+      "role_type": "security"
+    },
+    {
+      "id": "job065",
+      "title": "Vue.js Developer",
+      "company": "Housing.com",
+      "skills": ["Vue.js", "Vuex", "JavaScript", "HTML", "CSS", "REST APIs", "Webpack", "Frontend Testing"],
+      "role_type": "frontend"
+    },
+    {
+      "id": "job066",
+      "title": "Chatbot Developer",
+      "company": "Haptik",
+      "skills": ["NLP", "Python", "RASA", "Dialogflow", "Machine Learning", "API Integration", "JavaScript"],
+      "role_type": "ai"
+    },
+    {
+      "id": "job067",
+      "title": "Performance Engineer",
+      "company": "Oracle India",
+      "skills": ["Performance Testing", "JMeter", "LoadRunner", "APM Tools", "SQL Optimization", "Scripting", "Analytics"],
+      "role_type": "testing"
+    },
+    {
+      "id": "job068",
+      "title": "WordPress Developer",
+      "company": "WPWeb Infotech",
+      "skills": ["WordPress", "PHP", "JavaScript", "CSS", "HTML", "Plugin Development", "Theme Customization", "WooCommerce"],
+      "role_type": "cms"
+    },
+    {
+      "id": "job069",
+      "title": "Robotics Process Automation Developer",
+      "company": "Genpact",
+      "skills": ["RPA", "UiPath", "Blue Prism", "Automation Anywhere", "Process Analysis", "Scripting", "Business Process"],
+      "role_type": "automation"
+    },
+    {
+      "id": "job070",
+      "title": "ERP Developer",
+      "company": "Amdocs",
+      "skills": ["SAP", "Oracle ERP", "SQL", "Business Process", "Data Modeling", "ERP Implementation", "Integration"],
+      "role_type": "erp"
+    },
+    {
+      "id": "job071",
+      "title": "Firmware Engineer",
+      "company": "Samsung R&D Bangalore",
+      "skills": ["C", "Embedded C", "Firmware Development", "Microcontrollers", "RTOS", "IoT", "Hardware Interfacing"],
+      "role_type": "embedded"
+    },
+    {
+      "id": "job072",
+      "title": "Quantitative Analyst",
+      "company": "Goldman Sachs India",
+      "skills": ["Python", "R", "Statistics", "Machine Learning", "Financial Modeling", "Derivatives", "Risk Analysis"],
+      "role_type": "finance"
+    },
+    {
+      "id": "job073",
+      "title": "Elasticsearch Engineer",
+      "company": "Gojek Tech",
+      "skills": ["Elasticsearch", "Kibana", "Logstash", "Beats", "Java", "Python", "Search Optimization", "Data Indexing"],
+      "role_type": "backend"
+    },
+    {
+      "id": "job074",
+      "title": "Video Game Developer",
+      "company": "Ubisoft India",
+      "skills": ["C++", "Unity3D", "Unreal Engine", "Game Design", "3D Graphics", "Animation", "Gameplay Programming"],
+      "role_type": "gaming"
+    },
+    {
+      "id": "job075",
+      "title": "Augmented Reality Developer",
+      "company": "Lenskart",
+      "skills": ["ARKit", "ARCore", "Unity3D", "3D Modeling", "Computer Vision", "Mobile Development", "UI/UX Design"],
+      "role_type": "specialized"
+    },
+    {
+      "id": "job076",
+      "title": "GIS Developer",
+      "company": "MapmyIndia",
+      "skills": ["GIS", "ArcGIS", "QGIS", "Python", "JavaScript", "Spatial Analysis", "Map Visualization", "Database Design"],
+      "role_type": "specialized"
+    },
+    {
+      "id": "job077",
+      "title": "Analytics Engineer",
+      "company": "OYO Rooms",
+      "skills": ["SQL", "Python", "Data Modeling", "ETL", "Business Intelligence", "Tableau", "Data Warehousing"],
+      "role_type": "data_engineering"
+    },
+    {
+      "id": "job078",
+      "title": "Scala Developer",
+      "company": "Innovaccer",
+      "skills": ["Scala", "Akka", "Apache Spark", "Functional Programming", "Big Data", "Hadoop", "SQL"],
+      "role_type": "backend"
+    },
+    {
+      "id": "job079",
+      "title": "Django Developer",
+      "company": "Cars24",
+      "skills": ["Python", "Django", "Django REST Framework", "PostgreSQL", "JavaScript", "HTML", "CSS", "Git"],
+      "role_type": "backend"
+    },
+    {
+      "id": "job080",
+      "title": "Kubernetes Administrator",
+      "company": "Juspay",
+      "skills": ["Kubernetes", "Docker", "Helm", "CI/CD", "Linux", "Shell Scripting", "Monitoring", "AWS/GCP"],
+      "role_type": "devops"
+    },
+    {
+      "id": "job081",
+      "title": "Flutter Developer",
+      "company": "PayNearby",
+      "skills": ["Flutter", "Dart", "Mobile Development", "Firebase", "REST APIs", "State Management", "UI Design"],
+      "role_type": "mobile"
+    },
+    {
+      "id": "job082",
+      "title": "Deep Learning Researcher",
+      "company": "Wadhwani AI",
+      "skills": ["Deep Learning", "PyTorch", "TensorFlow", "Research", "Computer Vision", "Machine Learning", "Python"],
+      "role_type": "research"
+    },
+    {
+      "id": "job083",
+      "title": "Technical Support Specialist",
+      "company": "Zoho Corporation",
+      "skills": ["Troubleshooting", "Customer Support", "CRM", "Technical Documentation", "Problem Solving", "Communication"],
+      "role_type": "support"
+    },
+    {
+      "id": "job084",
+      "title": "Voice UI Designer",
+      "company": "Mihup Communications",
+      "skills": ["Voice User Interface", "Conversational Design", "NLP", "Dialog Flow Design", "UX Research", "User Testing"],
+      "role_type": "design"
+    },
+    {
+      "id": "job085",
+      "title": "Hybris Developer",
+      "company": "Mindtree",
+      "skills": ["SAP Hybris", "Java", "Spring", "E-commerce", "RESTful Services", "SQL", "JavaScript"],
+      "role_type": "ecommerce"
+    },
+    {
+      "id": "job086",
+      "title": "MLOps Engineer",
+      "company": "Fractal Analytics",
+      "skills": ["MLOps", "Docker", "Kubernetes", "CI/CD", "Python", "Machine Learning", "DevOps", "AWS/GCP"],
+      "role_type": "mlops"
+    },
+    {
+      "id": "job087",
+      "title": "Web3 Developer",
+      "company": "5ire",
+      "skills": ["Blockchain", "Web3.js", "Solidity", "DApps", "JavaScript", "Smart Contracts", "Ethereum"],
+      "role_type": "blockchain"
+    },
+    {
+      "id": "job088",
+      "title": "Accessibility Specialist",
+      "company": "Deque Systems India",
+      "skills": ["Web Accessibility", "WCAG", "Screen Readers", "HTML", "CSS", "JavaScript", "Assistive Technologies"],
+      "role_type": "specialized"
+    },
+    {
+      "id": "job089",
+      "title": "SAS Programmer",
+      "company": "IQVIA",
+      "skills": ["SAS", "Statistical Analysis", "Data Management", "Clinical Data", "SQL", "R", "Data Visualization"],
+      "role_type": "data_analysis"
+    },
+    {
+      "id": "job090",
+      "title": "Automation Test Engineer",
+      "company": "Nagarro",
+      "skills": ["Selenium", "Appium", "TestNG", "Jenkins", "Java", "Cucumber", "BDD", "Test Automation"],
+      "role_type": "testing"
+    },
+    {
+      "id": "job091",
+      "title": "Cryptocurrency Analyst",
+      "company": "WazirX",
+      "skills": ["Blockchain", "Cryptocurrency", "Financial Analysis", "Trading Systems", "Python", "Risk Management"],
+      "role_type": "finance"
+    },
+    {
+      "id": "job092",
+      "title": "Audio Engineer",
+      "company": "JioSaavn",
+      "skills": ["Audio Processing", "Digital Signal Processing", "Python", "Machine Learning", "Audio Codecs", "Music Tech"],
+      "role_type": "specialized"
+    },
+    {
+      "id": "job093",
+      "title": "Supply Chain Analyst",
+      "company": "Delhivery",
+      "skills": ["Supply Chain", "Logistics", "Data Analysis", "Excel", "SQL", "Python", "Optimization", "Forecasting"],
+      "role_type": "data_analysis"
+    },
+    {
+      "id": "job094",
+      "title": "Fintech Developer",
+      "company": "BharatPe",
+      "skills": ["Java", "Spring Boot", "Microservices", "Payment Gateway Integration", "Security", "SQL", "Redis"],
+      "role_type": "backend"
+    },
+    {
+      "id": "job095",
+      "title": "Hardware Engineer",
+      "company": "Intel India",
+      "skills": ["Hardware Design", "FPGA", "Verilog", "VHDL", "PCB Design", "Circuit Design", "Testing"],
+      "role_type": "hardware"
+    },
+    {
+      "id": "job096",
+      "title": "Shopify Developer",
+      "company": "Webkul",
+      "skills": ["Shopify", "Liquid", "JavaScript", "E-commerce", "HTML", "CSS", "API Integration", "Theme Development"],
+      "role_type": "ecommerce"
+    },
+    {
+      "id": "job097",
+      "title": ".NET Developer",
+      "company": "Mphasis",
+      "skills": ["C#", ".NET Core", "ASP.NET", "SQL Server", "Entity Framework", "Azure", "MVC"],
+      "role_type": "backend"
+    },
+    {
+      "id": "job098",
+      "title": "Tableau Developer",
+      "company": "Garter India",
+      "skills": ["Tableau", "Data Visualization", "SQL", "ETL", "Dashboard Design", "Data Analysis", "Reporting"],
+      "role_type": "data_visualization"
+    },
+    {
+      "id": "job099",
+      "title": "Metaverse Developer",
+      "company": "Tech Mahindra",
+      "skills": ["Unity3D", "3D Development", "AR/VR", "C#", "WebGL", "3D Modeling", "JavaScript", "Blockchain"],
+      "role_type": "specialized"
+    },
+    {
+      "id": "job100",
+      "title": "Cybersecurity Researcher",
+      "company": "K7 Computing",
+      "skills": ["Malware Analysis", "Reverse Engineering", "Threat Intelligence", "Python", "Security Research", "Binary Analysis"],
+      "role_type": "security"
+    },
+    {
+      "id": "job101",
+      "title": "Senior Software Engineer",
+      "company": "Infosys",
+      "skills": ["Java", "Spring Boot", "Microservices", "AWS", "Docker", "Kubernetes", "Problem Solving"],
+      "role_type": "Software Development"
+    },
+    {
+      "id": "job102",
+      "title": "Data Scientist",
+      "company": "TCS",
+      "skills": ["Python", "R", "SQL", "Machine Learning", "Statistical Analysis", "Data Visualization", "Critical Thinking"],
+      "role_type": "Data Science"
+    },
+    {
+      "id": "job103",
+      "title": "HR Manager",
+      "company": "Wipro",
+      "skills": ["Recruitment", "Employee Relations", "Performance Management", "Compensation Planning", "HRIS", "Labor Laws", "Leadership"],
+      "role_type": "Human Resources"
+    },
+    {
+      "id": "job104",
+      "title": "DevOps Engineer",
+      "company": "HCL Technologies",
+      "skills": ["AWS", "Docker", "Kubernetes", "Jenkins", "Terraform", "Collaboration", "Continuous Learning"],
+      "role_type": "DevOps"
+    },
+    {
+      "id": "job105",
+      "title": "Digital Marketing Specialist",
+      "company": "Nykaa",
+      "skills": ["SEO", "SEM", "Social Media Marketing", "Content Strategy", "Analytics", "Campaign Management", "Creativity"],
+      "role_type": "Marketing"
+    },
+    {
+      "id": "job106",
+      "title": "Frontend Developer",
+      "company": "Flipkart",
+      "skills": ["JavaScript", "React", "Redux", "HTML", "CSS", "User Experience", "Attention to Detail"],
+      "role_type": "Web Development"
+    },
+    {
+      "id": "job107",
+      "title": "Financial Analyst",
+      "company": "HDFC Bank",
+      "skills": ["Financial Modeling", "Budgeting", "Forecasting", "Excel", "Data Analysis", "Business Acumen", "Financial Reporting"],
+      "role_type": "Finance"
+    },
+    {
+      "id": "job108",
+      "title": "Data Engineer",
+      "company": "Microsoft India",
+      "skills": ["Python", "Spark", "SQL", "Hadoop", "ETL", "AWS", "Logical Thinking"],
+      "role_type": "Data Engineering"
+    },
+    {
+      "id": "job109",
+      "title": "Supply Chain Manager",
+      "company": "Tata Motors",
+      "skills": ["Inventory Management", "Logistics", "Procurement", "ERP Systems", "Vendor Management", "Negotiation", "Process Optimization"],
+      "role_type": "Supply Chain"
+    },
+    {
+      "id": "job110",
+      "title": "Cloud Architect",
+      "company": "Google India",
+      "skills": ["AWS", "Azure", "GCP", "Infrastructure as Code", "Cloud Security", "Strategic Thinking", "Solution Design"],
+      "role_type": "Cloud Computing"
+    },
+    {
+      "id": "job111",
+      "title": "UI/UX Designer",
+      "company": "Zomato",
+      "skills": ["Figma", "Adobe XD", "User Research", "Wireframing", "Prototyping", "Empathy", "Visual Communication"],
+      "role_type": "Design"
+    },
+    {
+      "id": "job112",
+      "title": "Product Manager",
+      "company": "BYJU'S",
+      "skills": ["Product Strategy", "Agile", "Market Research", "User Stories", "Roadmapping", "Stakeholder Management", "Communication"],
+      "role_type": "Product Management"
+    },
+    {
+      "id": "job113",
+      "title": "Sales Manager",
+      "company": "Reliance Retail",
+      "skills": ["B2B Sales", "Relationship Building", "Negotiation", "Sales Strategy", "Team Leadership", "Client Management", "CRM"],
+      "role_type": "Sales"
+    },
+    {
+      "id": "job114",
+      "title": "Security Engineer",
+      "company": "Cognizant",
+      "skills": ["Network Security", "OWASP", "Penetration Testing", "Security Architecture", "Risk Assessment", "Analytical Thinking"],
+      "role_type": "Cybersecurity"
+    },
+    {
+      "id": "job115",
+      "title": "Customer Success Manager",
+      "company": "Freshworks",
+      "skills": ["Client Relationship", "Product Knowledge", "Onboarding", "Retention Strategy", "Problem Solving", "Communication", "CRM"],
+      "role_type": "Customer Success"
+    },
+    {
+      "id": "job116",
+      "title": "Database Administrator",
+      "company": "Tech Mahindra",
+      "skills": ["MySQL", "PostgreSQL", "Oracle", "MongoDB", "Database Optimization", "Troubleshooting", "Documentation"],
+      "role_type": "Database Management"
+    },
+    {
+      "id": "job117",
+      "title": "E-commerce Operations Manager",
+      "company": "Myntra",
+      "skills": ["Inventory Management", "Fulfillment Operations", "Warehouse Management", "Supply Chain", "KPI Tracking", "Process Improvement"],
+      "role_type": "Operations"
+    },
+    {
+      "id": "job118",
+      "title": "Blockchain Developer",
+      "company": "Polygon",
+      "skills": ["Solidity", "Ethereum", "Smart Contracts", "Web3.js", "DApps", "Problem Solving", "Cryptography"],
+      "role_type": "Blockchain"
+    },
+    {
+      "id": "job119",
+      "title": "Business Development Manager",
+      "company": "OYO Rooms",
+      "skills": ["Lead Generation", "Partnership Building", "Market Analysis", "Negotiation", "Presentation", "Communication", "Relationship Management"],
+      "role_type": "Business Development"
+    },
+    {
+      "id": "job120",
+      "title": "React Native Developer",
+      "company": "PhonePe",
+      "skills": ["React Native", "JavaScript", "TypeScript", "Redux", "Mobile UI/UX", "API Integration", "Problem Solving"],
+      "role_type": "Mobile Development"
+    },
+    {
+      "id": "job121",
+      "title": "Business Analyst",
+      "company": "Accenture India",
+      "skills": ["Requirements Gathering", "Process Modeling", "Data Analysis", "SQL", "Wireframing", "Communication", "Critical Thinking"],
+      "role_type": "Business Analysis"
+    },
+    {
+      "id": "job122",
+      "title": "Content Marketing Manager",
+      "company": "Zerodha",
+      "skills": ["Content Strategy", "Copywriting", "SEO", "Social Media", "Brand Voice", "Editorial Planning", "Analytics"],
+      "role_type": "Marketing"
+    },
+    {
+      "id": "job123",
+      "title": "Python Developer",
+      "company": "PharmEasy",
+      "skills": ["Python", "Django", "Flask", "SQL", "REST APIs", "Git", "Problem Solving"],
+      "role_type": "Software Development"
+    },
+    {
+      "id": "job124",
+      "title": "Talent Acquisition Specialist",
+      "company": "Swiggy",
+      "skills": ["Sourcing", "Interviewing", "Employer Branding", "Candidate Assessment", "ATS", "Negotiation", "Communication"],
+      "role_type": "Human Resources"
+    },
+    {
+      "id": "job125",
+      "title": "Game Developer",
+      "company": "Dream11",
+      "skills": ["Unity", "C#", "3D Modeling", "Game Design", "Animation", "Physics", "Creativity"],
+      "role_type": "Game Development"
+    },
+    {
+      "id": "job126",
+      "title": "Corporate Trainer",
+      "company": "Genpact",
+      "skills": ["Training Delivery", "Learning Needs Assessment", "Curriculum Development", "Facilitation", "Public Speaking", "Evaluation Methods"],
+      "role_type": "Training & Development"
+    },
+    {
+      "id": "job127",
+      "title": "Data Analyst",
+      "company": "Deloitte India",
+      "skills": ["SQL", "Excel", "Power BI", "Tableau", "Data Visualization", "Statistical Analysis", "Critical Thinking"],
+      "role_type": "Data Science"
+    },
+    {
+      "id": "job128",
+      "title": "Cloud DevOps Engineer",
+      "company": "IBM India",
+      "skills": ["AWS", "Azure", "Jenkins", "Docker", "Kubernetes", "CI/CD", "Problem Solving"],
+      "role_type": "DevOps"
+    },
+    {
+      "id": "job129",
+      "title": "Event Manager",
+      "company": "BookMyShow",
+      "skills": ["Event Planning", "Vendor Management", "Budgeting", "Logistics", "Marketing", "Negotiation", "Crisis Management"],
+      "role_type": "Event Management"
+    },
+    {
+      "id": "job130",
+      "title": "Embedded Systems Engineer",
+      "company": "Bosch India",
+      "skills": ["C", "C++", "Embedded C", "Microcontrollers", "RTOS", "Hardware Interfacing", "Troubleshooting"],
+      "role_type": "Embedded Systems"
+    },
+    {
+      "id": "job131",
+      "title": "QA Engineer",
+      "company": "Philips India",
+      "skills": ["Manual Testing", "Automated Testing", "Selenium", "TestNG", "JIRA", "Attention to Detail", "Process Orientation"],
+      "role_type": "Quality Assurance"
+    },
+    {
+      "id": "job132",
+      "title": "Corporate Communications Manager",
+      "company": "Reliance Industries",
+      "skills": ["PR Strategy", "Media Relations", "Crisis Communication", "Internal Communications", "Stakeholder Management", "Writing", "Presentation"],
+      "role_type": "Corporate Communications"
+    },
+    {
+      "id": "job133",
+      "title": "Salesforce Developer",
+      "company": "Wipro",
+      "skills": ["Apex", "Visualforce", "Lightning Web Components", "SOQL", "Salesforce Admin", "Problem Solving"],
+      "role_type": "CRM Development"
+    },
+    {
+      "id": "job134",
+      "title": "Chartered Accountant",
+      "company": "EY India",
+      "skills": ["Financial Reporting", "Taxation", "Audit", "Regulatory Compliance", "Financial Analysis", "Attention to Detail", "GST"],
+      "role_type": "Finance"
+    },
+    {
+      "id": "job135",
+      "title": "Flutter Developer",
+      "company": "Cred",
+      "skills": ["Flutter", "Dart", "Firebase", "RESTful APIs", "Mobile UI/UX", "Cross-platform Development", "Problem Solving"],
+      "role_type": "Mobile Development"
+    },
+    {
+      "id": "job136",
+      "title": "Management Consultant",
+      "company": "McKinsey India",
+      "skills": ["Business Strategy", "Process Optimization", "Data Analysis", "Project Management", "Stakeholder Management", "Presentation", "Problem Solving"],
+      "role_type": "Consulting"
+    },
+    {
+      "id": "job137",
+      "title": "Vue.js Developer",
+      "company": "Spinny",
+      "skills": ["Vue.js", "Vuex", "JavaScript", "HTML", "CSS", "REST APIs", "Attention to Detail"],
+      "role_type": "Web Development"
+    },
+    {
+      "id": "job138",
+      "title": "IoT Engineer",
+      "company": "Samsung R&D India",
+      "skills": ["IoT Protocols", "Embedded Systems", "Python", "MQTT", "Hardware Interfacing", "Problem Solving"],
+      "role_type": "IoT"
+    },
+    {
+      "id": "job139",
+      "title": "Brand Manager",
+      "company": "ITC Limited",
+      "skills": ["Brand Strategy", "Market Research", "Campaign Management", "Competitive Analysis", "Product Positioning", "Consumer Behavior", "Analytics"],
+      "role_type": "Marketing"
+    },
+    {
+      "id": "job140",
+      "title": "Systems Analyst",
+      "company": "TCS",
+      "skills": ["Business Analysis", "System Design", "Requirements Gathering", "Process Modeling", "SDLC", "Critical Thinking"],
+      "role_type": "Business Analysis"
+    },
+    {
+      "id": "job141",
+      "title": "Operations Manager",
+      "company": "Amazon India",
+      "skills": ["Supply Chain", "Team Management", "Process Improvement", "KPI Tracking", "Resource Allocation", "Vendor Management", "ERP Systems"],
+      "role_type": "Operations"
+    },
+    {
+      "id": "job142",
+      "title": "Ruby on Rails Developer",
+      "company": "Urban Company",
+      "skills": ["Ruby", "Rails", "PostgreSQL", "RSpec", "RESTful APIs", "Git", "Problem Solving"],
+      "role_type": "Web Development"
+    },
+    {
+      "id": "job143",
+      "title": "NLP Engineer",
+      "company": "Freshworks",
+      "skills": ["Python", "NLP", "BERT", "Transformers", "Spacy", "NLTK", "Machine Learning"],
+      "role_type": "AI/ML"
+    },
+    {
+      "id": "job144",
+      "title": "Investment Banker",
+      "company": "JP Morgan India",
+      "skills": ["Financial Modeling", "Valuation", "M&A", "Due Diligence", "Financial Analysis", "Negotiation", "Presentation"],
+      "role_type": "Finance"
+    },
+    {
+      "id": "job145",
+      "title": "Golang Developer",
+      "company": "Zerodha",
+      "skills": ["Go", "RESTful APIs", "Microservices", "Docker", "Kubernetes", "PostgreSQL", "Problem Solving"],
+      "role_type": "Software Development"
+    },
+    {
+      "id": "job146",
+      "title": "Facilities Manager",
+      "company": "Infosys",
+      "skills": ["Facility Operations", "Vendor Management", "Budget Planning", "Compliance", "Space Planning", "Contract Management", "Team Leadership"],
+      "role_type": "Facilities Management"
+    },
+    {
+      "id": "job147",
+      "title": ".NET Developer",
+      "company": "Infosys",
+      "skills": ["C#", ".NET Core", "ASP.NET", "SQL Server", "Entity Framework", "Web APIs", "Problem Solving"],
+      "role_type": "Software Development"
+    },
+    {
+      "id": "job148",
+      "title": "IT Project Manager",
+      "company": "HCL Technologies",
+      "skills": ["Project Management", "Agile", "Scrum", "JIRA", "Risk Management", "Stakeholder Management", "Budgeting"],
+      "role_type": "Project Management"
+    },
+    {
+      "id": "job149",
+      "title": "Computer Vision Engineer",
+      "company": "Vedantu",
+      "skills": ["Computer Vision", "OpenCV", "Deep Learning", "Python", "TensorFlow", "Image Processing", "Problem Solving"],
+      "role_type": "AI/ML"
+    },
+    {
+      "id": "job150",
+      "title": "Legal Counsel",
+      "company": "Reliance Jio",
+      "skills": ["Corporate Law", "Contract Drafting", "Negotiation", "Legal Compliance", "Intellectual Property", "Litigation Management", "Legal Research"],
+      "role_type": "Legal"
+    },
+    {
+      "id": "job151",
+      "title": "MEAN Stack Developer",
+      "company": "PayU India",
+      "skills": ["MongoDB", "Express", "Angular", "Node.js", "TypeScript", "REST APIs", "Problem Solving"],
+      "role_type": "Web Development"
+    },
+    {
+      "id": "job152",
+      "title": "RPA Developer",
+      "company": "Genpact",
+      "skills": ["UiPath", "Automation Anywhere", "Blue Prism", "Process Automation", "Workflow Design", "Process Analysis"],
+      "role_type": "Automation"
+    },
+    {
+      "id": "job153",
+      "title": "Environmental Health Safety Manager",
+      "company": "Tata Steel",
+      "skills": ["Safety Management", "Compliance", "Risk Assessment", "Auditing", "Training", "Incident Investigation", "Health Programs"],
+      "role_type": "EHS"
+    },
+    {
+      "id": "job154",
+      "title": "Tableau Developer",
+      "company": "KPMG India",
+      "skills": ["Tableau", "SQL", "Data Visualization", "Dashboard Creation", "Data Analysis", "Storytelling", "Critical Thinking"],
+      "role_type": "Business Intelligence"
+    },
+    {
+      "id": "job155",
+      "title": "PHP Developer",
+      "company": "Cleartrip",
+      "skills": ["PHP", "Laravel", "MySQL", "JavaScript", "HTML", "CSS", "RESTful APIs"],
+      "role_type": "Web Development"
+    },
+    {
+      "id": "job156",
+      "title": "Hospitality Manager",
+      "company": "Taj Hotels",
+      "skills": ["Hotel Operations", "Guest Relations", "Staff Management", "Revenue Management", "Budgeting", "Customer Service", "Problem Solving"],
+      "role_type": "Hospitality"
+    },
+    {
+      "id": "job157",
+      "title": "AWS Cloud Engineer",
+      "company": "Dell India",
+      "skills": ["AWS", "EC2", "S3", "Lambda", "CloudFormation", "IAM", "VPC"],
+      "role_type": "Cloud Computing"
+    },
+    {
+      "id": "job158",
+      "title": "Social Media Manager",
+      "company": "MakeMyTrip",
+      "skills": ["Social Media Strategy", "Content Creation", "Community Management", "Analytics", "Campaign Execution", "Copywriting", "Visual Design"],
+      "role_type": "Marketing"
+    },
+    {
+      "id": "job159",
+      "title": "Chatbot Developer",
+      "company": "HDFC Bank",
+      "skills": ["NLP", "Dialogflow", "RASA", "Python", "Node.js", "Conversational AI", "API Integration"],
+      "role_type": "AI/ML"
+    },
+    {
+      "id": "job160",
+      "title": "UX Researcher",
+      "company": "Ola Electric",
+      "skills": ["User Research", "Usability Testing", "Interviews", "Prototyping", "Data Analysis", "Empathy", "Communication"],
+      "role_type": "Design"
+    },
+    {
+      "id": "job161",
+      "title": "Procurement Manager",
+      "company": "Maruti Suzuki",
+      "skills": ["Vendor Management", "Negotiation", "Strategic Sourcing", "Contract Management", "Supply Chain", "Cost Analysis", "ERP Systems"],
+      "role_type": "Procurement"
+    },
+    {
+      "id": "job162",
+      "title": "Scala Developer",
+      "company": "Thoughtworks India",
+      "skills": ["Scala", "Akka", "Play Framework", "Functional Programming", "Apache Spark", "Problem Solving"],
+      "role_type": "Software Development"
+    },
+    {
+      "id": "job163",
+      "title": "Performance Marketing Specialist",
+      "company": "Flipkart",
+      "skills": ["SEM", "PPC", "Google Ads", "Facebook Ads", "Conversion Optimization", "A/B Testing", "Analytics"],
+      "role_type": "Marketing"
+    },
+    {
+      "id": "job164",
+      "title": "Content Management System Specialist",
+      "company": "Times Internet",
+      "skills": ["WordPress", "Drupal", "PHP", "JavaScript", "Content Strategy", "SEO", "Problem Solving"],
+      "role_type": "Web Development"
+    },
+    {
+      "id": "job165",
+      "title": "FinTech Developer",
+      "company": "ICICI Bank",
+      "skills": ["Java", "Spring Boot", "Microservices", "Payment Gateways", "Financial APIs", "Banking Regulations", "Security"],
+      "role_type": "FinTech"
+    },
+    {
+      "id": "job166",
+      "title": "Research Scientist",
+      "company": "IIT Madras Research Park",
+      "skills": ["Scientific Research", "Data Analysis", "Research Methodology", "Academic Writing", "Literature Review", "Experimentation", "Critical Thinking"],
+      "role_type": "Research"
+    },
+    {
+      "id": "job167",
+      "title": "Technical Support Engineer",
+      "company": "Cisco India",
+      "skills": ["Networking", "Troubleshooting", "Customer Service", "Technical Documentation", "Problem Solving", "Communication"],
+      "role_type": "Technical Support"
+    },
+    {
+      "id": "job168",
+      "title": "Agile Coach",
+      "company": "Tech Mahindra",
+      "skills": ["Agile Methodologies", "Scrum", "Kanban", "Team Facilitation", "Coaching", "Change Management", "Leadership"],
+      "role_type": "Project Management"
+    },
+    {
+      "id": "job169",
+      "title": "Logistics Manager",
+      "company": "Delhivery",
+      "skills": ["Supply Chain", "Warehouse Management", "Transportation Management", "Inventory Control", "Route Optimization", "Vendor Management"],
+      "role_type": "Logistics"
+    },
+    {
+      "id": "job170",
+      "title": "Kubernetes Administrator",
+      "company": "Flipkart",
+      "skills": ["Kubernetes", "Docker", "Container Orchestration", "Helm", "Linux", "Monitoring", "CI/CD"],
+      "role_type": "DevOps"
+    },
+    {
+      "id": "job171",
+      "title": "API Developer",
+      "company": "Bajaj Finserv",
+      "skills": ["RESTful APIs", "API Design", "Swagger", "OpenAPI", "Node.js", "Java", "Spring Boot"],
+      "role_type": "Software Development"
+    },
+    {
+      "id": "job172",
+      "title": "Healthcare Administrator",
+      "company": "Apollo Hospitals",
+      "skills": ["Healthcare Management", "Patient Care", "Regulatory Compliance", "Staff Management", "Budgeting", "Healthcare IT", "Quality Management"],
+      "role_type": "Healthcare Administration"
+    },
+    {
+      "id": "job173",
+      "title": "Information Security Analyst",
+      "company": "SBI",
+      "skills": ["Security Analysis", "Vulnerability Assessment", "SIEM", "Compliance", "Risk Management", "Analytical Thinking"],
+      "role_type": "Cybersecurity"
+    },
+    {
+      "id": "job174",
+      "title": "Python Data Engineer",
+      "company": "InMobi",
+      "skills": ["Python", "PySpark", "Pandas", "Airflow", "SQL", "ETL", "Data Pipelines"],
+      "role_type": "Data Engineering"
+    },
+    {
+      "id": "job175",
+      "title": "Risk Analyst",
+      "company": "ICICI Bank",
+      "skills": ["Risk Assessment", "Financial Analysis", "Regulatory Compliance", "Credit Analysis", "Modeling", "Data Analytics", "Basel Norms"],
+      "role_type": "Risk Management"
+    },
+    {
+      "id": "job176",
+      "title": "Hybrid Mobile Developer",
+      "company": "Airtel",
+      "skills": ["Ionic", "Cordova", "React Native", "JavaScript", "TypeScript", "Mobile UI/UX", "Problem Solving"],
+      "role_type": "Mobile Development"
+    },
+    {
+      "id": "job177",
+      "title": "Manufacturing Engineer",
+      "company": "Tata Motors",
+      "skills": ["Lean Manufacturing", "Process Optimization", "Quality Control", "Six Sigma", "AutoCAD", "Production Planning", "Continuous Improvement"],
+      "role_type": "Manufacturing"
+    },
+    {
+      "id": "job178",
+      "title": "Deep Learning Engineer",
+      "company": "NVIDIA India",
+      "skills": ["TensorFlow", "PyTorch", "Computer Vision", "NLP", "CUDA", "GPU Optimization", "Problem Solving"],
+      "role_type": "AI/ML"
+    },
+    {
+      "id": "job179",
+      "title": "E-commerce Manager",
+      "company": "Tata CLiQ",
+      "skills": ["E-commerce Platform Management", "Digital Marketing", "Category Management", "Merchandising", "Analytics", "Customer Experience"],
+      "role_type": "E-commerce"
+    },
+    {
+      "id": "job180",
+      "title": "Oracle DBA",
+      "company": "Reliance Industries",
+      "skills": ["Oracle Database", "SQL", "PL/SQL", "Performance Tuning", "Backup & Recovery", "RAC", "Problem Solving"],
+      "role_type": "Database Management"
+    },
+    {
+      "id": "job181",
+      "title": "Instructional Designer",
+      "company": "Byju's",
+      "skills": ["Curriculum Development", "E-Learning", "Content Creation", "Learning Objectives", "Assessment Design", "Multimedia Production", "Educational Psychology"],
+      "role_type": "Education Technology"
+    },
+    {
+      "id": "job182",
+      "title": "Telecom Network Engineer",
+      "company": "Jio Platforms",
+      "skills": ["5G", "LTE", "Network Architecture", "Telecom Protocols", "Network Security", "Troubleshooting"],
+      "role_type": "Telecommunications"
+    },
+    {
+      "id": "job183",
+      "title": "Next.js Developer",
+      "company": "Groww",
+      "skills": ["Next.js", "React", "JavaScript", "TypeScript", "SSR", "API Routes", "Frontend Performance"],
+      "role_type": "Web Development"
+    },
+    {
+      "id": "job184",
+      "title": "ML Operations Engineer",
+      "company": "Fractal Analytics",
+      "skills": ["MLOps", "Docker", "Kubernetes", "CI/CD", "Python", "Model Deployment", "Monitoring"],
+      "role_type": "AI/ML"
+    },
+    {
+      "id": "job185",
+      "title": "Agricultural Scientist",
+      "company": "ITC Agri Business",
+      "skills": ["Crop Science", "Agricultural Research", "Data Analysis", "Soil Science", "Sustainable Farming", "Field Trials", "Research Methodology"],
+      "role_type": "Agriculture"
+    },
+    {
+      "id": "job186",
+      "title": "Compliance Officer",
+      "company": "Wipro",
+      "skills": ["Regulatory Compliance", "Risk Assessment", "Audit Management", "Policy Development", "Reporting", "Training", "Documentation"],
+      "role_type": "Compliance"
+    },
+    {
+      "id": "job187",
+      "title": "Web3 Developer",
+      "company": "CoinDCX",
+      "skills": ["Blockchain", "Solidity", "Web3.js", "Ethereum", "Smart Contracts", "DApps", "Cryptography"],
+      "role_type": "Blockchain"
+    },
+    {
+      "id": "job188",
+      "title": "GIS Developer",
+      "company": "MapmyIndia",
+      "skills": ["GIS", "Spatial Databases", "ArcGIS", "QGIS", "Python", "JavaScript", "Geospatial Analysis"],
+      "role_type": "GIS Development"
+    },
+    {
+      "id": "job189",
+      "title": "Financial Controller",
+      "company": "Mahindra & Mahindra",
+      "skills": ["Financial Reporting", "Accounting", "Budgeting", "Compliance", "Audit Management", "ERP Systems", "Financial Analysis"],
+      "role_type": "Finance"
+    },
+    {
+      "id": "job190",
+      "title": "Technical Writer",
+      "company": "Intel India",
+      "skills": ["Technical Documentation", "API Documentation", "Markdown", "Information Architecture", "User Guides", "Editing", "Research"],
+      "role_type": "Technical Writing"
+    },
+    {
+      "id": "job191",
+      "title": "Customer Experience Manager",
+      "company": "Airbnb India",
+      "skills": ["Customer Journey Mapping", "Voice of Customer", "CX Strategy", "Data Analysis", "Process Improvement", "Stakeholder Management", "CRM"],
+      "role_type": "Customer Experience"
+    },
+    {
+      "id": "job192",
+      "title": "Django Developer",
+      "company": "Dailyhunt",
+      "skills": ["Python", "Django", "Django REST Framework", "PostgreSQL", "Celery", "Redis", "Problem Solving"],
+      "role_type": "Web Development"
+    },
+    {
+      "id": "job193",
+      "title": "Firmware Engineer",
+      "company": "Qualcomm India",
+      "skills": ["Embedded C", "Firmware", "Microcontrollers", "RTOS", "Device Drivers", "Hardware Debugging", "Problem Solving"],
+      "role_type": "Embedded Systems"
+    },
+    {
+      "id": "job194",
+      "title": "Pharmaceutical Sales Representative",
+      "company": "Sun Pharma",
+      "skills": ["Medical Knowledge", "Sales Techniques", "Relationship Building", "Product Knowledge", "Territory Management", "Presentation", "CRM"],
+      "role_type": "Pharmaceutical Sales"
+    },
+    {
+      "id": "job195",
+      "title": "Data Privacy Officer",
+      "company": "Infosys",
+      "skills": ["GDPR", "Data Privacy", "Compliance", "Risk Assessment", "Security Policies", "Privacy by Design", "IT Law"],
+      "role_type": "Cybersecurity"
+    },
+    {
+      "id": "job196",
+      "title": "Analytics Manager",
+      "company": "HDFC Bank",
+      "skills": ["Business Analytics", "Data Visualization", "Statistical Analysis", "Python", "R", "SQL", "PowerBI", "Tableau"],
+      "role_type": "Data Science"
+    },
+    {
+      "id": "job197",
+      "title": "Terraform Specialist",
+      "company": "Zeta",
+      "skills": ["Terraform", "Infrastructure as Code", "AWS", "Azure", "GCP", "CI/CD", "DevOps", "Cloud Architecture"],
+      "role_type": "DevOps"
+    },
+    {
+      "id": "job198",
+      "title": "AI Ethics Researcher",
+      "company": "Microsoft Research India",
+      "skills": ["AI Ethics", "Machine Learning", "Research", "Policy Development", "Responsible AI", "Bias Detection", "Fairness"],
+      "role_type": "AI/ML"
+    },
+    {
+      "id": "job199",
+      "title": "React Performance Engineer",
+      "company": "Swiggy",
+      "skills": ["React", "Performance Optimization", "JavaScript", "Web Vitals", "Webpack", "Code Splitting", "Profiling"],
+      "role_type": "Web Development"
+    },
+    {
+      "id": "job200",
+      "title": "Digital Transformation Consultant",
+      "company": "PwC India",
+      "skills": ["Digital Strategy", "Process Automation", "Change Management", "Technology Assessment", "Enterprise Architecture", "Agile"],
+      "role_type": "Consulting"
+    },
+    {
+      "id": 201,
+      "title": "Backend Developer",
+      "company": "Infosys",
+      "skills": ["Python", "Django", "PostgreSQL", "AWS", "Docker", "Git", "RESTful APIs", "Microservices", "Problem Solving", "Communication"],
+      "role_type": "Software Development"
+    },
+    {
+      "id": 202,
+      "title": "Data Scientist",
+      "company": "TCS",
+      "skills": ["Python", "Machine Learning", "Deep Learning", "SQL", "TensorFlow", "Pandas", "NumPy", "Statistical Analysis", "Data Visualization", "Big Data"],
+      "role_type": "Data Science"
+    },
+    {
+      "id": 203,
+      "title": "DevOps Engineer",
+      "company": "Wipro",
+      "skills": ["AWS", "Docker", "Kubernetes", "Jenkins", "Terraform", "Linux", "CI/CD", "Git", "Ansible", "Monitoring"],
+      "role_type": "DevOps"
+    },
+    {
+      "id": 204,
+      "title": "UX Designer",
+      "company": "HCL Technologies",
+      "skills": ["UI Design", "UX Design", "Figma", "Wireframing", "Prototyping", "User Research", "Adobe XD", "Design Systems", "Information Architecture", "Usability Testing"],
+      "role_type": "UX/UI Design"
+    },
+    {
+      "id": 205,
+      "title": "Full Stack Developer",
+      "company": "Tech Mahindra",
+      "skills": ["JavaScript", "React", "Node.js", "MongoDB", "HTML", "CSS", "Express.js", "RESTful APIs", "Git", "Agile"],
+      "role_type": "Software Development"
+    },
+    {
+      "id": 206,
+      "title": "Product Manager",
+      "company": "Flipkart",
+      "skills": ["Product Strategy", "User Stories", "Roadmapping", "Agile", "Market Research", "Data Analysis", "Stakeholder Management", "A/B Testing", "Communication", "Leadership"],
+      "role_type": "Product Management"
+    },
+    {
+      "id": 207,
+      "title": "Digital Marketing Manager",
+      "company": "Zomato",
+      "skills": ["SEO", "SEM", "Social Media Marketing", "Content Marketing", "Google Analytics", "Email Marketing", "Campaign Management", "Digital Strategy", "Market Research", "Data Analysis"],
+      "role_type": "Digital Marketing"
+    },
+    {
+      "id": 208,
+      "title": "Frontend Developer",
+      "company": "Swiggy",
+      "skills": ["JavaScript", "React", "HTML", "CSS", "Redux", "TypeScript", "Responsive Design", "Web Performance", "Git", "Testing"],
+      "role_type": "Software Development"
+    },
+    {
+      "id": 209,
+      "title": "Machine Learning Engineer",
+      "company": "Paytm",
+      "skills": ["Python", "TensorFlow", "PyTorch", "Machine Learning", "Deep Learning", "NLP", "Computer Vision", "Data Preprocessing", "Feature Engineering", "Model Deployment"],
+      "role_type": "Data Science"
+    },
+    {
+      "id": 210,
+      "title": "Cloud Engineer",
+      "company": "Ola",
+      "skills": ["AWS", "Azure", "GCP", "Kubernetes", "Terraform", "Docker", "Cloud Security", "Networking", "Monitoring", "Infrastructure as Code"],
+      "role_type": "DevOps"
+    },
+    {
+      "id": 211,
+      "title": "Financial Analyst",
+      "company": "HDFC Bank",
+      "skills": ["Financial Modeling", "Financial Reporting", "Budgeting", "Forecasting", "Excel", "Data Analysis", "Accounting", "Risk Assessment", "Financial Planning", "Business Analysis"],
+      "role_type": "Finance"
+    },
+    {
+      "id": 212,
+      "title": "HR Manager",
+      "company": "ICICI Bank",
+      "skills": ["Recruitment", "Talent Acquisition", "Performance Management", "Employee Relations", "HR Analytics", "Compensation & Benefits", "Training & Development", "HR Policies", "HRIS", "Leadership"],
+      "role_type": "HR"
+    },
+    {
+      "id": 213,
+      "title": "Quality Assurance Engineer",
+      "company": "Axis Bank",
+      "skills": ["Manual Testing", "Automated Testing", "Selenium", "Test Planning", "Test Case Design", "API Testing", "Performance Testing", "Bug Tracking", "JIRA", "Agile"],
+      "role_type": "Quality Assurance"
+    },
+    {
+      "id": 214,
+      "title": "Business Analyst",
+      "company": "State Bank of India",
+      "skills": ["Requirements Gathering", "Process Analysis", "Data Analysis", "SQL", "Visualization", "JIRA", "Agile", "Documentation", "Stakeholder Management", "Problem Solving"],
+      "role_type": "Business Analysis"
+    },
+    {
+      "id": 215,
+      "title": "Android Developer",
+      "company": "Byju's",
+      "skills": ["Java", "Kotlin", "Android SDK", "MVVM", "RESTful APIs", "SQLite", "Firebase", "Git", "Material Design", "App Performance"],
+      "role_type": "Software Development"
+    },
+    {
+      "id": 216,
+      "title": "Content Writer",
+      "company": "Unacademy",
+      "skills": ["Content Creation", "SEO Writing", "Copywriting", "Editing", "Research", "Social Media Content", "Blog Writing", "Creative Writing", "Storytelling", "Grammar"],
+      "role_type": "Content Creation"
+    },
+    {
+      "id": 217,
+      "title": "Operations Manager",
+      "company": "Vedantu",
+      "skills": ["Operations Management", "Process Improvement", "Team Management", "Project Management", "Supply Chain", "Logistics", "Budgeting", "Vendor Management", "Problem Solving", "Leadership"],
+      "role_type": "Operations"
+    },
+    {
+      "id": 218,
+      "title": "Customer Success Manager",
+      "company": "upGrad",
+      "skills": ["Customer Service", "Account Management", "Relationship Building", "Product Knowledge", "Communication", "Problem Solving", "CRM", "Stakeholder Management", "Presentation Skills", "Empathy"],
+      "role_type": "Customer Support"
+    },
+    {
+      "id": 219,
+      "title": "Sales Executive",
+      "company": "GreatLearning",
+      "skills": ["Sales Strategy", "Lead Generation", "Negotiation", "CRM", "Account Management", "B2B Sales", "Relationship Building", "Cold Calling", "Sales Presentations", "Market Research"],
+      "role_type": "Sales"
+    },
+    {
+      "id": 220,
+      "title": "Project Manager",
+      "company": "Myntra",
+      "skills": ["Project Planning", "Agile", "Scrum", "Stakeholder Management", "Resource Management", "Risk Management", "Budgeting", "JIRA", "MS Project", "Communication"],
+      "role_type": "Project Management"
+    },
+    {
+      "id": 221,
+      "title": "Data Engineer",
+      "company": "MakeMyTrip",
+      "skills": ["Python", "SQL", "ETL", "Data Warehousing", "Big Data", "Hadoop", "Spark", "Data Modeling", "AWS", "Data Pipelines"],
+      "role_type": "Data Science"
+    },
+    {
+      "id": 222,
+      "title": "IT Support Specialist",
+      "company": "PolicyBazaar",
+      "skills": ["Troubleshooting", "Networking", "Windows", "Linux", "Hardware Support", "Software Support", "Customer Service", "IT Security", "System Administration", "Help Desk"],
+      "role_type": "IT Support"
+    },
+    {
+      "id": 223,
+      "title": "UI Designer",
+      "company": "Nykaa",
+      "skills": ["UI Design", "Visual Design", "Figma", "Adobe XD", "Sketch", "Typography", "Color Theory", "Design Systems", "Wireframing", "Prototyping"],
+      "role_type": "UX/UI Design"
+    },
+    {
+      "id": 224,
+      "title": "Healthcare Data Analyst",
+      "company": "Apollo Hospitals",
+      "skills": ["Healthcare Analytics", "Data Analysis", "SQL", "Excel", "Visualization", "Python", "R", "EHR Systems", "Clinical Data", "Statistical Analysis"],
+      "role_type": "Healthcare"
+    },
+    {
+      "id": 225,
+      "title": "Instructional Designer",
+      "company": "BigBasket",
+      "skills": ["Curriculum Development", "E-learning", "Learning Management Systems", "Content Creation", "Instructional Design Models", "Assessment Design", "Educational Technology", "Storyboarding", "Multimedia Design", "Adult Learning Theory"],
+      "role_type": "Education"
+    },
+    {
+      "id": 226,
+      "title": "iOS Developer",
+      "company": "Zerodha",
+      "skills": ["Swift", "Objective-C", "iOS SDK", "Xcode", "Core Data", "RESTful APIs", "UI/UX Design", "App Performance", "Git", "CocoaPods"],
+      "role_type": "Software Development"
+    },
+    {
+      "id": 227,
+      "title": "Research Scientist",
+      "company": "Razorpay",
+      "skills": ["Research Methodology", "Data Analysis", "Scientific Writing", "Literature Review", "Experimental Design", "Statistical Analysis", "Critical Thinking", "Python", "R", "Machine Learning"],
+      "role_type": "Research"
+    },
+    {
+      "id": 228,
+      "title": "Management Consultant",
+      "company": "PhonePe",
+      "skills": ["Business Strategy", "Problem Solving", "Data Analysis", "Project Management", "Stakeholder Management", "Market Research", "Process Improvement", "Change Management", "Presentation Skills", "Financial Analysis"],
+      "role_type": "Consulting"
+    },
+    {
+      "id": 229,
+      "title": "SRE Engineer",
+      "company": "CRED",
+      "skills": ["Linux", "Kubernetes", "Monitoring", "AWS", "Terraform", "CI/CD", "Automation", "Scripting", "Incident Management", "Performance Tuning"],
+      "role_type": "DevOps"
+    },
+    {
+      "id": 230,
+      "title": "Technical Writer",
+      "company": "Freshworks",
+      "skills": ["Technical Documentation", "API Documentation", "Content Creation", "Markdown", "HTML", "Information Architecture", "Editing", "Research", "User Guides", "Process Documentation"],
+      "role_type": "Content Creation"
+    },
+    {
+      "id": 231,
+      "title": "Database Administrator",
+      "company": "Larsen & Toubro",
+      "skills": ["SQL", "MySQL", "PostgreSQL", "Database Design", "Performance Tuning", "Backup & Recovery", "Data Security", "Replication", "Database Monitoring", "Troubleshooting"],
+      "role_type": "Software Development"
+    },
+    {
+      "id": 232,
+      "title": "Supply Chain Manager",
+      "company": "Mahindra & Mahindra",
+      "skills": ["Supply Chain Management", "Logistics", "Inventory Management", "Procurement", "Vendor Management", "Demand Planning", "Distribution", "Warehousing", "ERP Systems", "Process Improvement"],
+      "role_type": "Operations"
+    },
+    {
+      "id": 233,
+      "title": "Clinical Research Coordinator",
+      "company": "Tata Motors",
+      "skills": ["Clinical Trials", "Research Protocols", "Patient Recruitment", "Regulatory Compliance", "Data Collection", "Documentation", "Medical Terminology", "IRB Submissions", "Ethics", "Project Management"],
+      "role_type": "Healthcare"
+    },
+    {
+      "id": 234,
+      "title": "SEO Specialist",
+      "company": "Bajaj Auto",
+      "skills": ["SEO", "Keyword Research", "Google Analytics", "Content Optimization", "Link Building", "Technical SEO", "SEM", "Google Search Console", "SEO Audits", "Data Analysis"],
+      "role_type": "Digital Marketing"
+    },
+    {
+      "id": 235,
+      "title": "API Developer",
+      "company": "Hero MotoCorp",
+      "skills": ["RESTful APIs", "API Design", "Node.js", "Python", "Java", "JSON", "OAuth", "Microservices", "API Documentation", "API Testing"],
+      "role_type": "Software Development"
+    },
+    {
+      "id": 236,
+      "title": "AI Research Engineer",
+      "company": "Sun Pharmaceutical",
+      "skills": ["Machine Learning", "Deep Learning", "Neural Networks", "NLP", "Computer Vision", "Python", "TensorFlow", "PyTorch", "Research Methodology", "Algorithm Design"],
+      "role_type": "Data Science"
+    },
+    {
+      "id": 237,
+      "title": "Scrum Master",
+      "company": "Dr. Reddy's Laboratories",
+      "skills": ["Agile", "Scrum", "Kanban", "Team Facilitation", "Coaching", "JIRA", "Stakeholder Management", "Conflict Resolution", "Sprint Planning", "Continuous Improvement"],
+      "role_type": "Project Management"
+    },
+    {
+      "id": 238,
+      "title": "Healthcare IT Specialist",
+      "company": "Cipla",
+      "skills": ["Healthcare IT Systems", "EHR Implementation", "Medical Informatics", "Health Information Exchange", "HIPAA Compliance", "System Integration", "Clinical Workflows", "Patient Portal Management", "IT Support", "Healthcare Data Analysis"],
+      "role_type": "Healthcare"
+    },
+    {
+      "id": 239,
+      "title": "Social Media Manager",
+      "company": "Apollo Hospitals",
+      "skills": ["Social Media Strategy", "Content Creation", "Community Management", "Analytics", "Campaign Management", "Influencer Marketing", "Paid Social", "Copywriting", "Graphic Design", "Brand Voice"],
+      "role_type": "Digital Marketing"
+    },
+    {
+      "id": 240,
+      "title": "Network Engineer",
+      "company": "Fortis Healthcare",
+      "skills": ["Networking", "Cisco", "Routing", "Switching", "Firewalls", "VPN", "Network Security", "LAN/WAN", "TCP/IP", "Troubleshooting"],
+      "role_type": "IT Support"
+    },
+    {
+      "id": 241,
+      "title": "Mobile App Developer",
+      "company": "Bharti Airtel",
+      "skills": ["React Native", "Flutter", "Java", "Kotlin", "Swift", "RESTful APIs", "Git", "Mobile UI Design", "Cross-Platform Development", "App Performance"],
+      "role_type": "Software Development"
+    },
+    {
+      "id": 242,
+      "title": "Marketing Analyst",
+      "company": "Jio",
+      "skills": ["Data Analysis", "Market Research", "Google Analytics", "Campaign Analysis", "Reporting", "Excel", "SQL", "Visualization", "A/B Testing", "Statistical Analysis"],
+      "role_type": "Digital Marketing"
+    },
+    {
+      "id": 243,
+      "title": "Security Engineer",
+      "company": "Vodafone Idea",
+      "skills": ["Cybersecurity", "Network Security", "Penetration Testing", "Security Audits", "Vulnerability Assessment", "Firewalls", "SIEM", "Incident Response", "Risk Assessment", "Security Protocols"],
+      "role_type": "IT Support"
+    },
+    {
+      "id": 244,
+      "title": "Automation Engineer",
+      "company": "BSNL",
+      "skills": ["Selenium", "Test Automation", "CI/CD", "Python", "Java", "API Testing", "Performance Testing", "TestNG", "Jenkins", "Git"],
+      "role_type": "Quality Assurance"
+    },
+    {
+      "id": 245,
+      "title": "Game Developer",
+      "company": "MTNL",
+      "skills": ["Unity", "C#", "3D Modeling", "Game Design", "Animation", "Physics", "AI", "UI Design", "Version Control", "Mobile Game Development"],
+      "role_type": "Software Development"
+    },
+    {
+      "id": 246,
+      "title": "Blockchain Developer",
+      "company": "ITC Limited",
+      "skills": ["Blockchain", "Smart Contracts", "Solidity", "Ethereum", "Web3.js", "Cryptocurrency", "DApps", "Consensus Algorithms", "Cryptography", "Distributed Systems"],
+      "role_type": "Software Development"
+    },
+    {
+      "id": 247,
+      "title": "E-commerce Manager",
+      "company": "Hindustan Unilever",
+      "skills": ["E-commerce Strategy", "Digital Marketing", "Marketplace Management", "Product Listings", "Inventory Management", "Analytics", "CRM", "SEO", "PPC", "Customer Experience"],
+      "role_type": "Digital Marketing"
+    },
+    {
+      "id": 248,
+      "title": "UX Researcher",
+      "company": "Nestle India",
+      "skills": ["User Research", "Usability Testing", "Interviews", "Surveys", "Data Analysis", "Personas", "Journey Mapping", "Heuristic Evaluation", "A/B Testing", "Research Methodology"],
+      "role_type": "UX/UI Design"
+    },
+    {
+      "id": 249,
+      "title": "ERP Consultant",
+      "company": "Britannia Industries",
+      "skills": ["SAP", "Oracle ERP", "Business Analysis", "Process Mapping", "System Configuration", "Integration", "Testing", "Training", "Documentation", "Change Management"],
+      "role_type": "Consulting"
+    },
+    {
+      "id": 250,
+      "title": "IoT Engineer",
+      "company": "Dabur India",
+      "skills": ["IoT Platforms", "Embedded Systems", "Sensor Integration", "Networking Protocols", "Cloud Integration", "Hardware Design", "Firmware Development", "Raspberry Pi", "Arduino", "Security"],
+      "role_type": "Software Development"
+    },
+    {
+      "id": 251,
+      "title": "Big Data Engineer",
+      "company": "Adani Group",
+      "skills": ["Hadoop", "Spark", "Hive", "Kafka", "NoSQL", "ETL", "Data Warehousing", "Python", "Scala", "AWS"],
+      "role_type": "Data Science"
+    },
+    {
+      "id": 252,
+      "title": "Legal Counsel",
+      "company": "JSW Group",
+      "skills": ["Corporate Law", "Contract Negotiation", "Compliance", "Legal Research", "Intellectual Property", "Due Diligence", "Litigation", "Regulatory Affairs", "Legal Documentation", "Advisory"],
+      "role_type": "Consulting"
+    },
+    {
+      "id": 253,
+      "title": "Curriculum Developer",
+      "company": "Aditya Birla Group",
+      "skills": ["Curriculum Design", "Instructional Design", "Educational Content Development", "Learning Objectives", "Assessment Creation", "Educational Technology", "Pedagogical Theory", "Subject Matter Expertise", "E-learning Design", "Educational Standards"],
+      "role_type": "Education"
+    },
+    {
+      "id": 254,
+      "title": "Risk Analyst",
+      "company": "Godrej Group",
+      "skills": ["Risk Assessment", "Financial Analysis", "Regulatory Compliance", "Data Analysis", "Risk Modeling", "Credit Risk", "Market Risk", "Operational Risk", "Reporting", "Excel"],
+      "role_type": "Finance"
+    },
+    {
+      "id": 255,
+      "title": "Embedded Systems Engineer",
+      "company": "Tata Consultancy Services",
+      "skills": ["Embedded C", "Microcontrollers", "Firmware Development", "Circuit Design", "RTOS", "Hardware Interfaces", "Debugging", "Testing", "PCB Design", "Low-level Programming"],
+      "role_type": "Software Development"
+    },
+    {
+      "id": 256,
+      "title": "Talent Acquisition Specialist",
+      "company": "Infosys",
+      "skills": ["Recruitment", "Sourcing", "Interviewing", "Talent Pipeline", "ATS", "Employer Branding", "Candidate Assessment", "Hiring Strategy", "Job Market Analysis", "Onboarding"],
+      "role_type": "HR"
+    },
+    {
+      "id": 257,
+      "title": "Salesforce Developer",
+      "company": "TCS",
+      "skills": ["Salesforce", "Apex", "Visualforce", "Lightning", "SOQL", "API Integration", "Security", "Administration", "Custom Objects", "Automation"],
+      "role_type": "Software Development"
+    },
+    {
+      "id": 258,
+      "title": "Education Technology Specialist",
+      "company": "Wipro",
+      "skills": ["EdTech Platforms", "LMS Administration", "Content Development", "Instructional Design", "Educational Software", "Teacher Training", "Digital Assessment", "E-learning", "Educational Analytics", "Classroom Technology"],
+      "role_type": "Education"
+    },
+    {
+      "id": 259,
+      "title": "Clinical Systems Analyst",
+      "company": "HCL Technologies",
+      "skills": ["Healthcare IT", "EHR Systems", "Clinical Workflows", "Requirements Analysis", "System Implementation", "Training", "Healthcare Data Analysis", "Project Management", "System Integration", "Regulatory Compliance"],
+      "role_type": "Healthcare"
+    },
+    {
+      "id": 260,
+      "title": "Cloud Architect",
+      "company": "Tech Mahindra",
+      "skills": ["Cloud Architecture", "AWS", "Azure", "GCP", "Microservices", "Serverless", "Containerization", "Infrastructure as Code", "Cloud Security", "Hybrid Cloud"],
+      "role_type": "DevOps"
+    },
+    {
+      "id": 261,
+      "title": "Growth Marketer",
+      "company": "Reliance Industries",
+      "skills": ["Growth Hacking", "User Acquisition", "Retention Strategies", "A/B Testing", "Data Analysis", "SEO", "SEM", "Marketing Automation", "Conversion Optimization", "Customer Journey"],
+      "role_type": "Digital Marketing"
+    },
+    {
+      "id": 262,
+      "title": "Enterprise Architect",
+      "company": "HDFC Bank",
+      "skills": ["Enterprise Architecture", "Solution Design", "IT Strategy", "System Integration", "Technical Leadership", "Business Analysis", "Stakeholder Management", "TOGAF", "Cloud Architecture", "Security Architecture"],
+      "role_type": "Software Development"
+    },
+    {
+      "id": 263,
+      "title": "Compliance Officer",
+      "company": "ICICI Bank",
+      "skills": ["Regulatory Compliance", "Risk Management", "Policy Development", "Auditing", "Legal Research", "Financial Regulations", "Reporting", "Due Diligence", "KYC/AML", "Training"],
+      "role_type": "Finance"
+    },
+    {
+      "id": 264,
+      "title": "Cybersecurity Analyst",
+      "company": "Axis Bank",
+      "skills": ["Vulnerability Assessment", "Threat Analysis", "Security Monitoring", "Incident Response", "Network Security", "SIEM", "Penetration Testing", "Security Controls", "Compliance", "Risk Assessment"],
+      "role_type": "IT Support"
+    },
+    {
+      "id": 265,
+      "title": "React Developer",
+      "company": "State Bank of India",
+      "skills": ["React", "JavaScript", "Redux", "HTML", "CSS", "RESTful APIs", "React Hooks", "Node.js", "Testing", "Webpack"],
+      "role_type": "Software Development"
+    },
+    {
+      "id": 266,
+      "title": "Learning & Development Manager",
+      "company": "Flipkart",
+      "skills": ["Training Program Development", "Instructional Design", "Needs Assessment", "Facilitation", "E-learning", "Leadership Development", "Performance Improvement", "Learning Management Systems", "Training Evaluation", "Coaching"],
+      "role_type": "HR"
+    },
+    {
+      "id": 267,
+      "title": "Supply Chain Analyst",
+      "company": "Zomato",
+      "skills": ["Supply Chain Analysis", "Inventory Management", "Demand Forecasting", "Logistics Optimization", "Data Analysis", "Process Improvement", "ERP Systems", "Procurement", "Distribution", "Excel"],
+      "role_type": "Operations"
+    },
+    {
+      "id": 268,
+      "title": "Python Developer",
+      "company": "Swiggy",
+      "skills": ["Python", "Django", "Flask", "RESTful APIs", "SQL", "ORM", "Testing", "Git", "AWS", "Data Structures"],
+      "role_type": "Software Development"
+    },
+    {
+      "id": 269,
+      "title": "Healthcare Project Manager",
+      "company": "Paytm",
+      "skills": ["Healthcare Operations", "Project Management", "Clinical Workflows", "Regulatory Compliance", "Stakeholder Management", "Change Management", "Risk Management", "Healthcare IT", "Budget Management", "Team Leadership"],
+      "role_type": "Healthcare"
+    },
+    {
+      "id": 270,
+      "title": "Angular Developer",
+      "company": "Ola",
+      "skills": ["Angular", "TypeScript", "JavaScript", "HTML", "CSS", "RESTful APIs", "RxJS", "NgRx", "Testing", "Responsive Design"],
+      "role_type": "Software Development"
+    },
+    {
+      "id": 271,
+      "title": "Investment Analyst",
+      "company": "Byju's",
+      "skills": ["Financial Analysis", "Valuation", "Market Research", "Financial Modeling", "Investment Research", "Equity Research", "Financial Statements", "Risk Assessment", "Excel", "Bloomberg"],
+      "role_type": "Finance"
+    },
+    {
+      "id": 272,
+      "title": "Employee Relations Manager",
+      "company": "Unacademy",
+      "skills": ["Employee Relations", "Conflict Resolution", "HR Policies", "Labor Laws", "Performance Management", "Employee Engagement", "Mediation", "Communication", "Leadership", "Policy Development"],
+      "role_type": "HR"
+    },
+    {
+      "id": 273,
+      "title": "System Administrator",
+      "company": "Vedantu",
+      "skills": ["Linux", "Windows Server", "Active Directory", "Networking", "Security", "Virtualization", "Cloud Services", "Backup & Recovery", "Automation", "Troubleshooting"],
+      "role_type": "IT Support"
+    },
+    {
+      "id": 274,
+      "title": "Node.js Developer",
+      "company": "upGrad",
+      "skills": ["Node.js", "Express.js", "JavaScript", "RESTful APIs", "MongoDB", "SQL", "AWS", "Git", "Testing", "Microservices"],
+      "role_type": "Software Development"
+    },
+    {
+      "id": 275,
+      "title": "Product Designer",
+      "company": "GreatLearning",
+      "skills": ["UI Design", "UX Design", "Wireframing", "Prototyping", "User Research", "Design Systems", "Visual Design", "Figma", "Adobe XD", "Design Thinking"],
+      "role_type": "UX/UI Design"
+    },
+    {
+      "id": 276,
+      "title": "Business Intelligence Analyst",
+      "company": "Myntra",
+      "skills": ["BI Tools", "SQL", "Data Visualization", "Data Modeling", "ETL", "Tableau", "Power BI", "Data Analysis", "Reporting", "Business Analysis"],
+      "role_type": "Data Science"
+    },
+    {
+      "id": 277,
+      "title": "Program Manager",
+      "company": "MakeMyTrip",
+      "skills": ["Program Management", "Project Portfolio Management", "Strategic Planning", "Stakeholder Management", "Risk Management", "Resource Allocation", "Budget Management", "Agile", "Process Improvement", "Leadership"],
+      "role_type": "Project Management"
+    },
+    {
+      "id": 278,
+      "title": "Java Developer",
+      "company": "PolicyBazaar",
+      "skills": ["Java", "Spring Boot", "Hibernate", "RESTful APIs", "Microservices", "SQL", "AWS", "Git", "Testing", "Design Patterns"],
+      "role_type": "Software Development"
+    },
+    {
+      "id": 279,
+      "title": "Curriculum Designer",
+      "company": "Nykaa",
+      "skills": ["Curriculum Development", "Instructional Design", "Content Creation", "Educational Technology", "Learning Objectives", "Assessment Design", "E-learning", "Educational Psychology", "Pedagogical Methods", "Subject Matter Expertise"],
+      "role_type": "Education"
+    },
+    {
+      "id": 280,
+      "title": "Data Analyst",
+      "company": "Apollo Hospitals",
+      "skills": ["Data Analysis", "SQL", "Excel", "Data Visualization", "Tableau", "Power BI", "Statistical Analysis", "Reporting", "Python", "Data Cleaning"],
+      "role_type": "Data Science"
+    },
+    {
+      "id": 281,
+      "title": "Marketing Manager",
+      "company": "BigBasket",
+      "skills": ["Marketing Strategy", "Campaign Management", "Brand Management", "Digital Marketing", "Market Research", "Budget Management", "Team Leadership", "Content Marketing", "Analytics", "Customer Segmentation"],
+      "role_type": "Digital Marketing"
+    },
+    {
+      "id": 282,
+      "title": "IT Project Manager",
+      "company": "Zerodha",
+      "skills": ["IT Project Management", "Agile", "Scrum", "Stakeholder Management", "Risk Management", "Budget Management", "Resource Planning", "JIRA", "Technical Knowledge", "Communication"],
+      "role_type": "Project Management"
+    },
+    {
+      "id": 283,
+      "title": "DevSecOps Engineer",
+      "company": "Razorpay",
+      "skills": ["DevOps", "Security", "CI/CD", "Docker", "Kubernetes", "Infrastructure as Code", "Vulnerability Assessment", "Penetration Testing", "Automation", "Cloud Security"],
+      "role_type": "DevOps"
+    },
+    {
+      "id": 284,
+      "title": "Performance Marketing Manager",
+      "company": "PhonePe",
+      "skills": ["SEM", "PPC", "Google Ads", "Facebook Ads", "LinkedIn Ads", "Campaign Optimization", "A/B Testing", "Analytics", "Conversion Rate Optimization", "ROI Analysis"],
+      "role_type": "Digital Marketing"
+    },
+    {
+      "id": 285,
+      "title": "Customer Experience Manager",
+      "company": "CRED",
+      "skills": ["Customer Experience Strategy", "Customer Journey Mapping", "Voice of Customer", "NPS", "CSAT", "Process Improvement", "Service Design", "User Research", "CRM", "Team Leadership"],
+      "role_type": "Customer Support"
+    }
+]
