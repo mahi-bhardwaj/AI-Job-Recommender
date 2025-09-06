@@ -1,2 +1,3 @@
 # AI-Job-Recommender
-An AI-powered job recommendation system that matches users with relevant job opportunities by analyzing their skills and preferences using NLP, cosine similarity, and market insights.
+
+This project is an AI-driven job recommender platform designed to personalize job searches for users. It utilises NLP to analyse resumes and job descriptions, employs vectorisation techniques with cosine similarity for skill matching, and integrates real-time job data to suggest the best opportunities. Built with Python, FastAPI, React, and MongoDB.
